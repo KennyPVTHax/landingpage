@@ -1,0 +1,194 @@
+{
+  "capturedAt": "2026-10-23T15:34:26.363Z",
+  "locale": "en-IN",
+  "htmlLang": "en",
+  "region": "India (English (United States))",
+  "source": "https://play.google.com/store/apps/details?id=com.nic.mparivahan&hl=en&gl=IN",
+  "officialUrl": "https://play.google.com/store/apps/details?id=com.nic.mparivahan",
+  "title": "NextGen mParivahan",
+  "publisher": "National Informatics Centre.",
+  "publisherUrl": "https://play.google.com/store/apps/dev?id=9076108670215860604",
+  "rating": "3.7",
+  "reviews": "729K",
+  "phoneReviews": "726K",
+  "downloads": "100M+",
+  "updated": "Sep 30, 2026",
+  "version": "2.0.143",
+  "description": "Provides Transport Service access to citizens through a mobile-based application. This app empowers citizen with instant access to various information, services and utilities related to the Transport Sector. Aimed to bring convenience to citizen and transparency in the system.\n\nIt is a genuine government app for all India RTO vehicle registration number search. It provides complete information about any vehicle which is registered in India like -\n\n- Owner Name\n- Registration date\n- Registering Authority\n- Make Model\n- Fuel Type\n- Vehicle Age\n- Vehicle class\n- Insurance Validity\n- Fitness Validity\n\nAll this information will be displayed in details.\n\nThe main benefits of this app are -\n\n1. Find details of any parked, accidental or theft vehicle by just entering the registration number.\n2. Verify your car registration details.\n3. Verify details of a second-hand vehicle.\n4. If you want to buy a second-hand car you can verify the age and registration details.\n\nAlong with the above features, you can also verify DL details and create virtual DL and RC\nin this app.\n\nHighlights: Virtual RC/DL, Encrypted QR Code, Information Services, DL/RC search, Transport Notification to the citizen, RTO/Traffic Office Locations. Complete Transport Office related services will also be facilitated soon..",
+  "reviewsSnapshot": [
+    {
+      "name": "Harshil Karani",
+      "date": "September 16, 2026",
+      "text": "Not working, every time I login it says unexpected error or says you are logging in from different device. Doesn't work when you need it the most. tried reinstalling too still doesn't work. cleared cache too. It worked well in the past but now it just doesn't. I wrote that I already reinstalled and tried clearing cache. still same auto reply.",
+      "helpful": 170,
+      "stars": 1,
+      "avatar": "image-17.webp",
+      "reply": {
+        "date": "September 15, 2026",
+        "text": "Hi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this."
+      }
+    },
+    {
+      "name": "Adit Newah",
+      "date": "July 20, 2026",
+      "text": "Was better, got worse. I had my vehicle details stored in the app for quite some time now. However when i wanted to check something about my vehicle now i can't find the info anymore. So, i tried adding my vehicle again just to get prompted to enter OTP which just has a validity of 30secs. While I was able to enter the OTP i got Unexpected error message and the OTP session got expired and had to regenerate the OTP and re-enter to get the same result. This happened several times. Annoying.",
+      "helpful": 105,
+      "stars": 1,
+      "avatar": "image-18.webp",
+      "reply": {
+        "date": "July 20, 2026",
+        "text": "Hi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this."
+      }
+    },
+    {
+      "name": "uday kiran reddy Anumula",
+      "date": "July 25, 2026",
+      "text": "This app doesn't even allow me to sign up. What's the purpose if it doesn't have bare minimum maintainance? It's been three days and it still shows same error all the times. Tried clearing cache, reinstalled app several times, tried signing up at midnight when the app traffic is low. None of it works. App doesn't even allow sceeenshot to post it here.",
+      "helpful": 113,
+      "stars": 1,
+      "avatar": "image-19.webp",
+      "reply": null
+    }
+  ],
+  "distribution": [422597, 58964, 34834, 27990, 182005],
+  "related": [
+    {
+      "title": "Mera Ration App",
+      "publisher": "National Informatics Centre.",
+      "rating": "3.7",
+      "url": "https://play.google.com/store/apps/details?id=com.nic.onenationonecard",
+      "image": "image-21.webp"
+    },
+    {
+      "title": "NSP OTR",
+      "publisher": "National Informatics Centre.",
+      "rating": "4.5",
+      "url": "https://play.google.com/store/apps/details?id=in.gov.scholarships.nspotr",
+      "image": "image-22.webp"
+    },
+    {
+      "title": "JeevanPramaan",
+      "publisher": "National Informatics Centre.",
+      "rating": "4.2",
+      "url": "https://play.google.com/store/apps/details?id=com.aadhaar.life",
+      "image": "image-23.webp"
+    },
+    {
+      "title": "PMKISAN GoI",
+      "publisher": "National Informatics Centre.",
+      "rating": "3.8",
+      "url": "https://play.google.com/store/apps/details?id=com.nic.project.pmkisan",
+      "image": "image-24.webp"
+    },
+    {
+      "title": "eCourts Services",
+      "publisher": "National Informatics Centre.",
+      "rating": "3.3",
+      "url": "https://play.google.com/store/apps/details?id=in.gov.ecourts.eCourtsServices",
+      "image": "image-25.webp"
+    },
+    {
+      "title": "AadhaarBAS",
+      "publisher": "National Informatics Centre.",
+      "rating": "2.6",
+      "url": "https://play.google.com/store/apps/details?id=com.aebas.aebas_client",
+      "image": "image-26.webp"
+    },
+    {
+      "title": "Vehicleinfo - RTO Information",
+      "publisher": "CARS24 Services Private Limited",
+      "rating": "4.5",
+      "url": "https://play.google.com/store/apps/details?id=com.vehicle.rto.vahan.status.information.register",
+      "image": "image-27.webp"
+    },
+    {
+      "title": "Axis Mobile: Pay, Invest & UPI",
+      "publisher": "Axis Bank Ltd.",
+      "rating": "4.8",
+      "url": "https://play.google.com/store/apps/details?id=com.axis.mobile",
+      "image": "image-28.webp"
+    },
+    {
+      "title": "DigiLocker",
+      "publisher": "National eGovernance Division, Government of India",
+      "rating": "4.2",
+      "url": "https://play.google.com/store/apps/details?id=com.digilocker.android",
+      "image": "image-29.webp"
+    },
+    {
+      "title": "CarInfo - RTO Vehicle Info App",
+      "publisher": "CarInfo - Challans| FASTag | Buy & Sell Cars",
+      "rating": "4.5",
+      "url": "https://play.google.com/store/apps/details?id=com.cuvora.carinfo",
+      "image": "image-30.webp"
+    },
+    {
+      "title": "iGOT Karmayogi",
+      "publisher": "Karmayogi Bharat",
+      "rating": "4.5",
+      "url": "https://play.google.com/store/apps/details?id=com.nic.mparivahan&hl=en&gl=IN",
+      "image": "image-31.webp"
+    },
+    {
+      "title": "Bajaj Finance : UPI & Loan App",
+      "publisher": "Bajaj Finance Limited",
+      "rating": "4.7",
+      "url": "https://play.google.com/store/apps/details?id=org.altruist.BajajExperia",
+      "image": "image-32.webp"
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "Terms of Service",
+      "href": "https://myaccount.google.com/termsofservice"
+    },
+    {
+      "text": "Play Pass",
+      "href": "https://play.google.com/store/pass/getstarted"
+    },
+    {
+      "text": "Play Points",
+      "href": "https://play.google.com/store/points/enroll"
+    },
+    {
+      "text": "Gift cards",
+      "href": "https://play.google.com/about/giftcards"
+    },
+    {
+      "text": "Redeem",
+      "href": "https://play.google.com/redeem"
+    },
+    {
+      "text": "Refund policy",
+      "href": "https://support.google.com/googleplay/answer/134336"
+    },
+    {
+      "text": "Parent Guide",
+      "href": "https://support.google.com/googleplay?p=pff_parentguide"
+    },
+    {
+      "text": "Family sharing",
+      "href": "https://support.google.com/googleplay/answer/7007852"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "https://play.google.com/intl/en-US_in/about/play-terms.html"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "About Google Play",
+      "href": "https://support.google.com/googleplay/?p=about_play"
+    },
+    {
+      "text": "Developers",
+      "href": "http://developer.android.com/index.html"
+    },
+    {
+      "text": "Google Store",
+      "href": "https://store.google.com/?playredirect=true&utm_source=play&utm_medium=google_oo&utm_campaign=GS106288"
+    }
+  ]
+}

@@ -1,0 +1,1072 @@
+{
+  "styles": [
+    {
+      "sel": "h1",
+      "ancestors": [
+        {
+          "tag": "H1",
+          "cls": "",
+          "rect": {
+            "x": 72,
+            "y": 336,
+            "w": 560,
+            "h": 152
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "152px",
+            "width": "560px",
+            "maxWidth": "none",
+            "font": "500 64px / 76px \"Google Sans Display\", Roboto, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "Fd93Bb F5UCq xwcR9d",
+          "rect": {
+            "x": 72,
+            "y": 336,
+            "w": 560,
+            "h": 152
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "flex",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "152px",
+            "width": "560px",
+            "maxWidth": "none",
+            "font": "500 64px / 76px \"Google Sans Display\", Roboto, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "",
+          "rect": {
+            "x": 72,
+            "y": 336,
+            "w": 560,
+            "h": 192
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "192px",
+            "width": "560px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "RhBWnf",
+          "rect": {
+            "x": 72,
+            "y": 336,
+            "w": 560,
+            "h": 192
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "flex",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "192px",
+            "width": "560px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "qxNhq",
+          "rect": {
+            "x": 72,
+            "y": 336,
+            "w": 560,
+            "h": 192
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px",
+            "margin": "112px 0px 0px",
+            "height": "192px",
+            "width": "560px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        }
+      ]
+    },
+    {
+      "sel": ".oiEt0d",
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "cls": "oiEt0d",
+          "rect": {
+            "x": 373,
+            "y": 64,
+            "w": 1067,
+            "h": 600
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "absolute",
+            "display": "block",
+            "padding": "1px",
+            "margin": "0px",
+            "height": "600px",
+            "width": "1067px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "cover"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "PyyLUd",
+          "rect": {
+            "x": 373,
+            "y": 64,
+            "w": 1067,
+            "h": 600
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "absolute",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "600px",
+            "width": "1067px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "C-WIZ",
+          "cls": "",
+          "rect": {
+            "x": 72,
+            "y": 382,
+            "w": 560,
+            "h": 18
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "inline",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "auto",
+            "width": "auto",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "wkMJlb YWi3ub",
+          "rect": {
+            "x": 72,
+            "y": 64,
+            "w": 1296,
+            "h": 620
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "relative",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px 72px",
+            "height": "620px",
+            "width": "1296px",
+            "maxWidth": "1296px",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "dzkqwc",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "w": 1440,
+            "h": 652
+          },
+          "styles": {
+            "background": "rgb(32, 33, 36) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px 0px 32px",
+            "margin": "0px",
+            "height": "652px",
+            "width": "1440px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        }
+      ]
+    },
+    {
+      "sel": ".B5GQxf",
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "cls": "T75of B5GQxf",
+          "rect": {
+            "x": 72,
+            "y": 756,
+            "w": 131,
+            "h": 296
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / contain padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "inline",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "296px",
+            "width": "131px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "Atcj9b",
+          "rect": {
+            "x": 72,
+            "y": 756,
+            "w": 131,
+            "h": 298
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "relative",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "298px",
+            "width": "131px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "ULeU3b Utde2e",
+          "rect": {
+            "x": 72,
+            "y": 756,
+            "w": 131,
+            "h": 298
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "relative",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px 16px 0px 0px",
+            "height": "298px",
+            "width": "131px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "aoJE7e qwPPwf",
+          "rect": {
+            "x": 72,
+            "y": 756,
+            "w": 860,
+            "h": 298
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "flex",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "298px",
+            "width": "860px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "bewvKb KUSTKe",
+          "rect": {
+            "x": 72,
+            "y": 756,
+            "w": 860,
+            "h": 298
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "relative",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "298px",
+            "width": "860px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        }
+      ]
+    },
+    {
+      "sel": ".S3WLMd",
+      "ancestors": [
+        {
+          "tag": "HEADER",
+          "cls": "S3WLMd ",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 1440,
+            "h": 64
+          },
+          "styles": {
+            "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "fixed",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "64px",
+            "width": "1440px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "C-WIZ",
+          "cls": "",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "w": 0,
+            "h": 0
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "inline",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "auto",
+            "width": "auto",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "BODY",
+          "cls": "tQj5Y ghyPEc IqBfM ecJEib EWZcud EIlDfe cjGgHb d8Etdd LcUz9d",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "w": 1440,
+            "h": 900
+          },
+          "styles": {
+            "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "900px",
+            "width": "1440px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "HTML",
+          "cls": "",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 1440,
+            "h": 900
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "900px",
+            "width": "1440px",
+            "maxWidth": "none",
+            "font": "16px / 16px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        }
+      ]
+    },
+    {
+      "sel": ".XfZNbf",
+      "ancestors": [
+        {
+          "tag": "H2",
+          "cls": "XfZNbf",
+          "rect": {
+            "x": 72,
+            "y": 1098,
+            "w": 149.8125,
+            "h": 28
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "flex",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "28px",
+            "width": "149.812px",
+            "maxWidth": "none",
+            "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "EaMWib",
+          "rect": {
+            "x": 72,
+            "y": 1098,
+            "w": 149.8125,
+            "h": 30
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px 16px 0px 0px",
+            "height": "30px",
+            "width": "149.812px",
+            "maxWidth": "none",
+            "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "DIV",
+          "cls": "VMq4uf",
+          "rect": {
+            "x": 72,
+            "y": 1098,
+            "w": 860,
+            "h": 30
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "flex",
+            "padding": "0px",
+            "margin": "0px",
+            "height": "30px",
+            "width": "860px",
+            "maxWidth": "none",
+            "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "HEADER",
+          "cls": " cswwxf",
+          "rect": {
+            "x": 72,
+            "y": 1098,
+            "w": 860,
+            "h": 50
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "0px 0px 20px",
+            "margin": "0px",
+            "height": "50px",
+            "width": "860px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        },
+        {
+          "tag": "SECTION",
+          "cls": "HcyOxe",
+          "rect": {
+            "x": 72,
+            "y": 1078,
+            "w": 860,
+            "h": 318
+          },
+          "styles": {
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": "none",
+            "position": "static",
+            "display": "block",
+            "padding": "20px 0px 0px",
+            "margin": "0px 0px 24px",
+            "height": "318px",
+            "width": "860px",
+            "maxWidth": "none",
+            "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+            "letterSpacing": "normal",
+            "gridTemplateColumns": "none",
+            "gap": "normal",
+            "maskImage": "none",
+            "opacity": "1",
+            "objectFit": "fill"
+          },
+          "before": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "after": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        }
+      ]
+    }
+  ],
+  "fontFaces": [
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2\") format(\"woff2\"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-209F, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AE, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F8D0-1F8D8, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FAC6, U+1FAC8, U+1FACC-1FADD, U+1FADF-1FAEB, U+1FAEF-1FAFA, U+1FB00-1FBFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 100; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2\") format(\"woff2\"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-209F, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AE, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F8D0-1F8D8, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FAC6, U+1FAC8, U+1FACC-1FADD, U+1FADF-1FAEB, U+1FAEF-1FAFA, U+1FB00-1FBFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 300; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2\") format(\"woff2\"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-209F, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AE, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F8D0-1F8D8, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FAC6, U+1FAC8, U+1FACC-1FADD, U+1FADF-1FAEB, U+1FAEF-1FAFA, U+1FB00-1FBFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2\") format(\"woff2\"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-209F, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AE, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F8D0-1F8D8, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FAC6, U+1FAC8, U+1FACC-1FADD, U+1FADF-1FAEB, U+1FAEF-1FAFA, U+1FB00-1FBFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2\") format(\"woff2\"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-209F, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2\") format(\"woff2\"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AE, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F8D0-1F8D8, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FAC6, U+1FAC8, U+1FACC-1FADD, U+1FADF-1FAEB, U+1FAEF-1FAFA, U+1FB00-1FBFF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: Roboto; font-style: normal; font-weight: 700; font-stretch: 100%; src: url(\"https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: \"Material Icons Extended\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/materialiconsextended/v154/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2\") format(\"woff2\"); }",
+    "@font-face { font-family: \"Google Material Icons\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlematerialicons/v144/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2\") format(\"woff2\"); }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiIUvaYr.woff2\") format(\"woff2\"); unicode-range: U+308, U+530-58F, U+2010, U+2024, U+25CC, U+FB13-FB17; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiAUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+980-9FE, U+1CD0, U+1CD2, U+1CD5-1CD6, U+1CD8, U+1CE1, U+1CEA, U+1CED, U+1CF2, U+1CF5-1CF7, U+200C-200D, U+20B9, U+25CC, U+A8F1, U+11DF0-11DF1; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPh0UvaYr.woff2\") format(\"woff2\"); unicode-range: U+2C7, U+2D8-2D9, U+2DB, U+307, U+1400-167F, U+18B0-18F5, U+25CC, U+11AB0-11ABF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj8UvaYr.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjYUvaYr.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjMUvaYr.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF4, U+1CF7-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B0A; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiMUvaYr.woff2\") format(\"woff2\"); unicode-range: U+30E, U+1200-1399, U+2D80-2DDE, U+AB01-AB2E, U+1E7E0-1E7E6, U+1E7E8-1E7EB, U+1E7ED-1E7EE, U+1E7F0-1E7FE; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi0UvaYr.woff2\") format(\"woff2\"); unicode-range: U+589, U+10A0-10FF, U+1C90-1CBA, U+1CBD-1CBF, U+205A, U+2D00-2D2F, U+2E31; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj4UvaYr.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjEUvaYr.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPikUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+A80-AFF, U+200C-200D, U+20B9, U+25CC, U+A830-A839; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPhEUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+A01-A76, U+200C-200D, U+20B9, U+25CC, U+262C, U+A830-A839; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjAUvaYr.woff2\") format(\"woff2\"); unicode-range: U+307-308, U+590-5FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjkUvaYr.woff2\") format(\"woff2\"); unicode-range: U+1780-17FF, U+19E0-19FF, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjsUvaYr.woff2\") format(\"woff2\"); unicode-range: U+E81-EDF, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPioUvaYr.woff2\") format(\"woff2\"); unicode-range: U+307, U+323, U+951-952, U+964-965, U+B83, U+D00-D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPisUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+B01-B77, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi8UvaYr.woff2\") format(\"woff2\"); unicode-range: U+964-965, U+D81-DF4, U+1CF2, U+200C-200D, U+25CC, U+111E1-111F4; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPlwUvaYr.woff2\") format(\"woff2\"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AE, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F8D0-1F8D8, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FAC6, U+1FAC8, U+1FACC-1FADD, U+1FADF-1FAEB, U+1FAEF-1FAFA, U+1FB00-1FBFF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiQUvaYr.woff2\") format(\"woff2\"); unicode-range: U+964-965, U+B82-BFA, U+200C-200D, U+20B9, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi4UvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+B83, U+C00-C7F, U+1CD5-1CD6, U+1CD8, U+1CDA, U+1CF2, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiYUvaYr.woff2\") format(\"woff2\"); unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj0UvaYr.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjwUvaYr.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiIUvaYr.woff2\") format(\"woff2\"); unicode-range: U+308, U+530-58F, U+2010, U+2024, U+25CC, U+FB13-FB17; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiAUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+980-9FE, U+1CD0, U+1CD2, U+1CD5-1CD6, U+1CD8, U+1CE1, U+1CEA, U+1CED, U+1CF2, U+1CF5-1CF7, U+200C-200D, U+20B9, U+25CC, U+A8F1, U+11DF0-11DF1; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPh0UvaYr.woff2\") format(\"woff2\"); unicode-range: U+2C7, U+2D8-2D9, U+2DB, U+307, U+1400-167F, U+18B0-18F5, U+25CC, U+11AB0-11ABF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj8UvaYr.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjYUvaYr.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjMUvaYr.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF4, U+1CF7-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B0A; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiMUvaYr.woff2\") format(\"woff2\"); unicode-range: U+30E, U+1200-1399, U+2D80-2DDE, U+AB01-AB2E, U+1E7E0-1E7E6, U+1E7E8-1E7EB, U+1E7ED-1E7EE, U+1E7F0-1E7FE; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi0UvaYr.woff2\") format(\"woff2\"); unicode-range: U+589, U+10A0-10FF, U+1C90-1CBA, U+1CBD-1CBF, U+205A, U+2D00-2D2F, U+2E31; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj4UvaYr.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjEUvaYr.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPikUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+A80-AFF, U+200C-200D, U+20B9, U+25CC, U+A830-A839; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPhEUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+A01-A76, U+200C-200D, U+20B9, U+25CC, U+262C, U+A830-A839; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjAUvaYr.woff2\") format(\"woff2\"); unicode-range: U+307-308, U+590-5FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjkUvaYr.woff2\") format(\"woff2\"); unicode-range: U+1780-17FF, U+19E0-19FF, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjsUvaYr.woff2\") format(\"woff2\"); unicode-range: U+E81-EDF, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPioUvaYr.woff2\") format(\"woff2\"); unicode-range: U+307, U+323, U+951-952, U+964-965, U+B83, U+D00-D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPisUvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+B01-B77, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi8UvaYr.woff2\") format(\"woff2\"); unicode-range: U+964-965, U+D81-DF4, U+1CF2, U+200C-200D, U+25CC, U+111E1-111F4; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPlwUvaYr.woff2\") format(\"woff2\"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AE, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F8D0-1F8D8, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FAC6, U+1FAC8, U+1FACC-1FADD, U+1FADF-1FAEB, U+1FAEF-1FAFA, U+1FB00-1FBFF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiQUvaYr.woff2\") format(\"woff2\"); unicode-range: U+964-965, U+B82-BFA, U+200C-200D, U+20B9, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi4UvaYr.woff2\") format(\"woff2\"); unicode-range: U+951-952, U+964-965, U+B83, U+C00-C7F, U+1CD5-1CD6, U+1CD8, U+1CDA, U+1CF2, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiYUvaYr.woff2\") format(\"woff2\"); unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj0UvaYr.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjwUvaYr.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: \"Google Sans\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: \"Google Symbols\"; font-style: normal; font-weight: 400 700; src: url(\"https://fonts.gstatic.com/l/font?kit=HhyqU5Ak9u-oMExPeInvcuEmPosC9zS3FYkFU68cPrjdKM1XMoDZlWmzc3IiWvF1SbxVhQidBnv_C-yl7nPvLhulI5igXf3e9lwonnNfxUjCBDT-0HBGVj6GPxon56ZWpj918HjwgZMgaYos4VsxHm2dD5EEjxHfyzMIRbEM9yVJjGvhUdrFi_RnlfbK-PBf2g&skey=f8ec4d50247dc1c1&v=v464\") format(\"woff2\"); }"
+  ],
+  "links": [
+    {
+      "text": "Games",
+      "href": "https://play.google.com/store/games"
+    },
+    {
+      "text": "Apps",
+      "href": "https://play.google.com/store/apps"
+    },
+    {
+      "text": "Books",
+      "href": "https://play.google.com/store/books"
+    },
+    {
+      "text": "Kids",
+      "href": "https://play.google.com/store/apps/category/FAMILY"
+    },
+    {
+      "text": "google_logo Play",
+      "href": "https://play.google.com/store/games"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "https://myaccount.google.com/termsofservice"
+    },
+    {
+      "text": "Games",
+      "href": "https://play.google.com/store/games"
+    },
+    {
+      "text": "Apps",
+      "href": "https://play.google.com/store/apps"
+    },
+    {
+      "text": "Books",
+      "href": "https://play.google.com/store/books"
+    },
+    {
+      "text": "Kids",
+      "href": "https://play.google.com/store/apps/category/FAMILY"
+    },
+    {
+      "text": "National Informatics Centre.",
+      "href": "https://play.google.com/store/apps/dev?id=9076108670215860604"
+    },
+    {
+      "text": "Learn more",
+      "href": "https://support.google.com/googleplay?p=appgame_ratings"
+    },
+    {
+      "text": "",
+      "href": "https://play.google.com/store/apps/category/PRODUCTIVITY"
+    },
+    {
+      "text": "",
+      "href": "https://play.google.com/store/apps/datasafety?id=com.nic.mparivahan"
+    },
+    {
+      "text": "Learn more",
+      "href": "https://support.google.com/googleplay?p=data-safety&hl=en"
+    },
+    {
+      "text": "",
+      "href": "https://play.google.com/store/apps/datasafety?id=com.nic.mparivahan"
+    },
+    {
+      "text": "flag\nFlag as inappropriate",
+      "href": "https://support.google.com/googleplay/?p=report_content"
+    },
+    {
+      "text": "Learn more",
+      "href": "https://support.google.com/googleplay?p=appgame_ratings"
+    },
+    {
+      "text": "publicWebsite",
+      "href": "https://parivahan.gov.in/"
+    },
+    {
+      "text": "emailSupport emailhelpdesk-mparivahan@gov.in",
+      "href": "mailto:helpdesk-mparivahan@gov.in"
+    },
+    {
+      "text": "shieldPrivacy Policy",
+      "href": "https://mparivahan.parivahan.gov.in/privacy-policy.html"
+    },
+    {
+      "text": "",
+      "href": "https://play.google.com/store/apps/dev?id=9076108670215860604"
+    },
+    {
+      "text": "Mera Ration App\nNational Informatics Centre.\n3.7\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.nic.onenationonecard"
+    },
+    {
+      "text": "NSP OTR\nNational Informatics Centre.\n4.5\nstar",
+      "href": "https://play.google.com/store/apps/details?id=in.gov.scholarships.nspotr"
+    },
+    {
+      "text": "JeevanPramaan\nNational Informatics Centre.\n4.2\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.aadhaar.life"
+    },
+    {
+      "text": "PMKISAN GoI\nNational Informatics Centre.\n3.8\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.nic.project.pmkisan"
+    },
+    {
+      "text": "eCourts Services\nNational Informatics Centre.\n3.3\nstar",
+      "href": "https://play.google.com/store/apps/details?id=in.gov.ecourts.eCourtsServices"
+    },
+    {
+      "text": "AadhaarBAS\nNational Informatics Centre.\n2.6\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.aebas.aebas_client"
+    },
+    {
+      "text": "",
+      "href": "https://play.google.com/store/apps/collection/cluster?gsr=SnhqLDJKdGNPa1owdzJvekE1TUhDSVJESGM0cHZvRWdmOVZaZDh3aTF1YVhscE09wgJEChYKEmNvbS5uaWMubXBhcml2YWhhbhAHGAgwATgASh4IARAAGhJOZXh0R2VuIG1QYXJpdmFoYW4gACgAMABQAFgBYACwEgA%3D:S:ANO1ljLRzoc"
+    },
+    {
+      "text": "Vehicleinfo - RTO Information\nCARS24 Services Private Limited\n4.5\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.vehicle.rto.vahan.status.information.register"
+    },
+    {
+      "text": "Axis Mobile: Pay, Invest & UPI\nAxis Bank Ltd.\n4.8\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.axis.mobile"
+    },
+    {
+      "text": "CarInfo - RTO Vehicle Info App\nCarInfo - Challans| FASTag | Buy & Sell Cars\n4.5\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.cuvora.carinfo"
+    },
+    {
+      "text": "DigiLocker\nNational eGovernance Division, Government of India\n4.2\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.digilocker.android"
+    },
+    {
+      "text": "Bajaj Finance : UPI & Loan App\nBajaj Finance Limited\n4.7\nstar",
+      "href": "https://play.google.com/store/apps/details?id=org.altruist.BajajExperia"
+    },
+    {
+      "text": "APSRTC\nAndhra Pradesh State Road Transport Corporation\n3.9\nstar",
+      "href": "https://play.google.com/store/apps/details?id=com.apsrtc.online"
+    },
+    {
+      "text": "flagFlag as inappropriate",
+      "href": "https://support.google.com/googleplay/?p=report_content"
+    },
+    {
+      "text": "Play Pass",
+      "href": "https://play.google.com/store/pass/getstarted"
+    },
+    {
+      "text": "Play Points",
+      "href": "https://play.google.com/store/points/enroll"
+    },
+    {
+      "text": "Gift cards",
+      "href": "https://play.google.com/about/giftcards"
+    },
+    {
+      "text": "Redeem",
+      "href": "https://play.google.com/redeem"
+    },
+    {
+      "text": "Refund policy",
+      "href": "https://support.google.com/googleplay/answer/134336"
+    },
+    {
+      "text": "Parent Guide",
+      "href": "https://support.google.com/googleplay?p=pff_parentguide"
+    },
+    {
+      "text": "Family sharing",
+      "href": "https://support.google.com/googleplay/answer/7007852"
+    },
+    {
+      "text": "Terms of Service",
+      "href": "https://play.google.com/intl/en-US_in/about/play-terms.html"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "About Google Play",
+      "href": "https://support.google.com/googleplay/?p=about_play"
+    },
+    {
+      "text": "Developers",
+      "href": "http://developer.android.com/index.html"
+    },
+    {
+      "text": "Google Store",
+      "href": "https://store.google.com/?playredirect=true&utm_source=play&utm_medium=google_oo&utm_campaign=GS106288"
+    }
+  ],
+  "reviews": [
+    {
+      "label": "422,597 reviews for star rating 5",
+      "html": "<div class=\"JzwBgb\" role=\"img\" aria-label=\"422,597 reviews for star rating 5\"><div aria-hidden=\"true\" class=\"Qjdn7d\">5</div><div aria-hidden=\"true\" class=\"RJfYGf\"><div class=\"RutFAf wcB8se kfCPEd\" style=\"width: 58.177220138877416%\" title=\"422,597\"></div></div></div>"
+    },
+    {
+      "label": "58,964 reviews for star rating 4",
+      "html": "<div class=\"JzwBgb\" role=\"img\" aria-label=\"58,964 reviews for star rating 4\"><div aria-hidden=\"true\" class=\"Qjdn7d\">4</div><div aria-hidden=\"true\" class=\"RJfYGf\"><div class=\"RutFAf wcB8se kfCPEd\" style=\"width: 8.117335447882422%\" title=\"58,964\"></div></div></div>"
+    },
+    {
+      "label": "34,834 reviews for star rating 3",
+      "html": "<div class=\"JzwBgb\" role=\"img\" aria-label=\"34,834 reviews for star rating 3\"><div aria-hidden=\"true\" class=\"Qjdn7d\">3</div><div aria-hidden=\"true\" class=\"RJfYGf\"><div class=\"RutFAf wcB8se kfCPEd\" style=\"width: 4.795455922114108%\" title=\"34,834\"></div></div></div>"
+    },
+    {
+      "label": "27,990 reviews for star rating 2",
+      "html": "<div class=\"JzwBgb\" role=\"img\" aria-label=\"27,990 reviews for star rating 2\"><div aria-hidden=\"true\" class=\"Qjdn7d\">2</div><div aria-hidden=\"true\" class=\"RJfYGf\"><div class=\"RutFAf wcB8se kfCPEd\" style=\"width: 3.8532701171261956%\" title=\"27,990\"></div></div></div>"
+    },
+    {
+      "label": "182,005 reviews for star rating 1",
+      "html": "<div class=\"JzwBgb\" role=\"img\" aria-label=\"182,005 reviews for star rating 1\"><div aria-hidden=\"true\" class=\"Qjdn7d\">1</div><div aria-hidden=\"true\" class=\"RJfYGf\"><div class=\"RutFAf wcB8se kfCPEd\" style=\"width: 25.055892378261994%\" title=\"182,005\"></div></div></div>"
+    }
+  ],
+  "aboutDialog": "NextGen mParivahan\nAbout this app\nclear\nProvides Transport Service access to citizens through a mobile-based application. This app empowers citizen with instant access to various information, services and utilities related to the Transport Sector. Aimed to bring convenience to citizen and transparency in the system.\n\nIt is a genuine government app for all India RTO vehicle registration number search. It provides complete information about any vehicle which is registered in India like -\n\n- Owner Name\n- Registration date\n- Registering Authority\n- Make Model\n- Fuel Type\n- Vehicle Age\n- Vehicle class\n- Insurance Validity\n- Fitness Validity\n\nAll this information will be displayed in details.\n\nThe main benefits of this app are -\n\n1. Find details of any parked, accidental or theft vehicle by just entering the registration number.\n2. Verify your car registration details.\n3. Verify details of a second-hand vehicle.\n4. If you want to buy a second-hand car you can verify the age and registration details.\n\nAlong with the above features, you can also verify DL details and create virtual DL and RC\nin this app.\n\nHighlights: Virtual RC/DL, Encrypted QR Code, Information Services, DL/RC search, Transport Notification to the citizen, RTO/Traffic Office Locations. Complete Transport Office related services will also be facilitated soon..\nVersion\n2.0.143\nUpdated on\nSep 30, 2026\nRequires Android\n8.1 and up\nDownloads\n100,000,000+ downloads\nContent rating\nRated for 3+ Learn more\nPermissions\nView details\nReleased on\nJan 10, 2017\nOffered by\nNational Informatics Centre.\nCompatibility for your active devices *\nYou need to login to view the compatible devices\n* How this app works on your device\nThis section shows you whether this app works on your devices. You’ll only see devices that are linked to your Google Account and that have been active in the last 30 days.",
+  "support": "google_logo Play\nGames\nApps\nBooks\nKids\nsearch\nhelp_outline\nNextGen mParivahan\nNational Informatics Centre.\n3.7\nstar\n729K reviews\nGovernment\ninfo\n100M+\nDownloads\nInstall\nShare\nAdd to wishlist\nplay_arrow\nTrailer\nchevron_right\nAbout this app\narrow_forward\nProvides Transport Service access to citizens through a mobile-based application. This app empowers citizen with instant access to various information, services and utilities related to the Transport Sector. Aimed to bring convenience to citizen and transparency in the system.\n\nIt is a genuine government app for all India RTO vehicle registration number search. It provides complete information about any vehicle which is registered in India like -\n\n- Owner Name\n- Registration date\n- Registering Authority\n- Make Model\n- Fuel Type\n- Vehicle Age\n- Vehicle class\n- Insurance Validity\n- Fitness Validity\n\nAll this information will be displayed in details.\n\nThe main benefits of this app are -\n\n1. Find details of any parked, accidental or theft vehicle by just entering the registration number.\n2. Verify your car registration details.\n3. Verify details of a second-hand vehicle.\n4. If you want to buy a second-hand car you can verify the age and registration details.\n\nAlong with the above features, you can also verify DL details and create virtual DL and RC\nin this app.\n\nHighlights: Virtual RC/DL, Encrypted QR Code, Information Services, DL/RC search, Transport Notification to the citizen, RTO/Traffic Office Locations. Complete Transport Office related services will also be facilitated soon..\nComplete Transport Solution for Citizen\nUpdated on\nSep 30, 2026\nProductivity\nData safety\narrow_forward\nSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.\nNo data shared with third parties\nLearn more about how developers declare sharing\nThis app may collect these data types\nLocation, Personal info and 5 others\nData is encrypted in transit\nYou can request that data be deleted\nSee details\nRatings and reviews\narrow_forward\nRatings and reviews are verified\ninfo_outline\nphone_android\nPhone\ntablet_android\nTablet\n3.7\n726K reviews\n5\n4\n3\n2\n1\nHarshil Karani\nmore_vert\nSeptember 16, 2026\nNot working, every time I login it says unexpected error or says you are logging in from different device. Doesn't work when you need it the most. tried reinstalling too still doesn't work. cleared cache too. It worked well in the past but now it just doesn't. I wrote that I already reinstalled and tried clearing cache. still same auto reply.\n171 people found this review helpful\nDid you find this helpful?\nYes\nNo\nNational Informatics Centre.\nSeptember 15, 2026\nHi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this.\nAdit Newah\nmore_vert\nJuly 20, 2026\nWas better, got worse. I had my vehicle details stored in the app for quite some time now. However when i wanted to check something about my vehicle now i can't find the info anymore. So, i tried adding my vehicle again just to get prompted to enter OTP which just has a validity of 30secs. While I was able to enter the OTP i got Unexpected error message and the OTP session got expired and had to regenerate the OTP and re-enter to get the same result. This happened several times. Annoying.\n105 people found this review helpful\nDid you find this helpful?\nYes\nNo\nNational Informatics Centre.\nJuly 20, 2026\nHi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this.\nuday kiran reddy Anumula\nmore_vert\nJuly 25, 2026\nThis app doesn't even allow me to sign up. What's the purpose if it doesn't have bare minimum maintainance? It's been three days and it still shows same error all the times. Tried clearing cache, reinstalled app several times, tried signing up at midnight when the app traffic is low. None of it works. App doesn't even allow sceeenshot to post it here.\n113 people found this review helpful\nDid you find this helpful?\nYes\nNo\nSee all reviews\nflag\nFlag as inappropriate\nRated for 3+\nLearn more\nApp support\nexpand_more\nMore by National Informatics Centre.\narrow_forward\nMera Ration App\nNational Informatics Centre.\n3.7\nstar\nNSP OTR\nNational Informatics Centre.\n4.5\nstar\nJeevanPramaan\nNational Informatics Centre.\n4.2\nstar\nPMKISAN GoI\nNational Informatics Centre.\n3.8\nstar\neCourts Services\nNational Informatics Centre.\n3.3\nstar\nAadhaarBAS\nNational Informatics Centre.\n2.6\nstar\nSimilar apps\narrow_forward\nVehicleinfo - RTO Information\nCARS24 Services Private Limited\n4.5\nstar\nAxis Mobile: Pay, Invest & UPI\nAxis Bank Ltd.\n4.8\nstar\nCarInfo - RTO Vehicle Info App\nCarInfo - Challans| FASTag | Buy & Sell Cars\n4.5\nstar\nDigiLocker\nNational eGovernance Division, Government of India\n4.2\nstar\nBajaj Finance : UPI & Loan App\nBajaj Finance Limited\n4.7\nstar\nAPSRTC\nAndhra Pradesh State Road Transport Corporation\n3.9\nstar\nGoogle Play\n\nPlay Pass\n\nPlay Points\n\nGift cards\n\nRedeem\n\nRefund policy\n\nKids & family\n\nParent Guide\n\nFamily sharing\n\nTerms of Service\n\nPrivacy\n\nAbout Google Play\n\nDevelopers\n\nGoogle Store\n\nAll prices include GST.\nIndia (English (United States))",
+  "lightbox": "- banner:\n  - navigation \"Page Header\":\n    - link \"Google Play logo\":\n      - /url: /store/games\n    - navigation \"Main\":\n      - tablist:\n        - tab \"Games\"\n        - tab \"Apps\" [selected]\n        - tab \"Books\"\n        - tab \"Kids\"\n    - button \"Search\"\n    - button \"Help Center\"\n    - button \"Open account menu\"\n- heading \"NextGen mParivahan\" [level=1]\n- link \"National Informatics Centre.\":\n  - /url: /store/apps/dev?id=9076108670215860604\n- region \"Information badges\":\n  - img \"Rated 3.7 stars out of five stars\"\n  - text: 729K reviews\n  - img \"Government App\": Government\n  - button \"More info about the Government badge\"\n  - text: 100M+ Downloads\n- button \"Install\"\n- button \"Share\"\n- button \"Add to wishlist\"\n- button \"Play trailer\": Trailer\n- list:\n  - listitem:\n    - button \"Screenshot image\"\n  - listitem:\n    - button \"Screenshot image\"\n  - listitem:\n    - button \"Screenshot image\"\n  - listitem:\n    - button \"Screenshot image\"\n  - listitem:\n    - button \"Screenshot image\"\n  - listitem:\n    - button \"Screenshot image\"\n  - listitem:\n    - button \"Screenshot image\"\n- button \"Scroll Next\"\n- heading \"About this app\" [level=2]\n- button \"See more information on About this app\"\n- text: \"Provides Transport Service access to citizens through a mobile-based application. This app empowers citizen with instant access to various information, services and utilities related to the Transport Sector. Aimed to bring convenience to citizen and transparency in the system. It is a genuine government app for all India RTO vehicle registration number search. It provides complete information about any vehicle which is registered in India like - - Owner Name - Registration date - Registering Authority - Make Model - Fuel Type - Vehicle Age - Vehicle class - Insurance Validity - Fitness Validity All this information will be displayed in details. The main benefits of this app are - 1. Find details of any parked, accidental or theft vehicle by just entering the registration number. 2. Verify your car registration details. 3. Verify details of a second-hand vehicle. 4. If you want to buy a second-hand car you can verify the age and registration details. Along with the above features, you can also verify DL details and create virtual DL and RC in this app. Highlights: Virtual RC/DL, Encrypted QR Code, Information Services, DL/RC search, Transport Notification to the citizen, RTO/Traffic Office Locations. Complete Transport Office related services will also be facilitated soon..\"\n- note \"Complete Transport Solution for Citizen\"\n- text: Updated on Sep 30, 2026\n- link \"Productivity\":\n  - /url: /store/apps/category/PRODUCTIVITY\n- heading \"Data safety\" [level=2]\n- link \"See more information on Data safety\":\n  - /url: /store/apps/datasafety?id=com.nic.mparivahan\n- text: Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.\n- list:\n  - listitem:\n    - text: No data shared with third parties\n    - link \"Learn more\":\n      - /url: https://support.google.com/googleplay?p=data-safety&hl=en\n    - text: about how developers declare sharing\n  - listitem: This app may collect these data types Location, Personal info and 5 others\n  - listitem: Data is encrypted in transit\n  - listitem: You can request that data be deleted\n- link \"See more details on data safety\":\n  - /url: /store/apps/datasafety?id=com.nic.mparivahan\n- heading \"Ratings and reviews\" [level=2]\n- button \"See more information on Ratings and reviews\"\n- button \"Ratings and reviews are verified\"\n- list:\n  - listitem:\n    - button \"Phone\" [pressed]\n  - listitem:\n    - button \"Tablet\"\n- img \"Rated 3.7 stars out of five stars\"\n- text: 726K reviews\n- img \"422,597 reviews for star rating 5\"\n- img \"58,964 reviews for star rating 4\"\n- img \"34,834 reviews for star rating 3\"\n- img \"27,990 reviews for star rating 2\"\n- img \"182,005 reviews for star rating 1\"\n- text: Harshil Karani\n- button \"More review actions\"\n- img \"Rated 1 stars out of five stars\"\n- text: September 16, 2026 Not working, every time I login it says unexpected error or says you are logging in from different device. Doesn't work when you need it the most. tried reinstalling too still doesn't work. cleared cache too. It worked well in the past but now it just doesn't. I wrote that I already reinstalled and tried clearing cache. still same auto reply. 171 people found this review helpful Did you find this helpful?\n- button \"Yes\"\n- button \"No\"\n- text: National Informatics Centre. September 15, 2026 Hi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this. Adit Newah\n- button \"More review actions\"\n- img \"Rated 1 stars out of five stars\"\n- text: July 20, 2026 Was better, got worse. I had my vehicle details stored in the app for quite some time now. However when i wanted to check something about my vehicle now i can't find the info anymore. So, i tried adding my vehicle again just to get prompted to enter OTP which just has a validity of 30secs. While I was able to enter the OTP i got Unexpected error message and the OTP session got expired and had to regenerate the OTP and re-enter to get the same result. This happened several times. Annoying. 105 people found this review helpful Did you find this helpful?\n- button \"Yes\"\n- button \"No\"\n- text: National Informatics Centre. July 20, 2026 Hi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this. uday kiran reddy Anumula\n- button \"More review actions\"\n- img \"Rated 1 stars out of five stars\"\n- text: July 25, 2026 This app doesn't even allow me to sign up. What's the purpose if it doesn't have bare minimum maintainance? It's been three days and it still shows same error all the times. Tried clearing cache, reinstalled app several times, tried signing up at midnight when the app traffic is low. None of it works. App doesn't even allow sceeenshot to post it here. 113 people found this review helpful Did you find this helpful?\n- button \"Yes\"\n- button \"No\"\n- button \"See all reviews\"\n- link \"Flag as inappropriate (opens in new window)\":\n  - /url: https://support.google.com/googleplay/?p=report_content\n  - text: Flag as inappropriate\n- img \"Content rating\"\n- text: Rated for 3+\n- link \"Learn more about content ratings (opens in new window)\":\n  - /url: https://support.google.com/googleplay?p=appgame_ratings\n  - text: Learn more\n- heading \"App support\" [level=2]\n- button \"Collapse\" [expanded]\n- region \"App support Collapse\":\n  - link \"Website https://parivahan.gov.in/ will open in a new window or tab.\":\n    - /url: https://parivahan.gov.in/\n    - text: Website\n  - text: Phone number +911204925505\n  - link \"Support email mailto:helpdesk-mparivahan@gov.in will open in a new window or tab.\":\n    - /url: mailto:helpdesk-mparivahan@gov.in\n    - text: Support email helpdesk-mparivahan@gov.in\n  - link \"Privacy Policy https://mparivahan.parivahan.gov.in/privacy-policy.html will open in a new window or tab.\":\n    - /url: https://mparivahan.parivahan.gov.in/privacy-policy.html\n    - text: Privacy Policy\n  - text: About the developer National Informatics Centre developer.mapmyindia@gmail.com A-BLOCK, CGO COMPLEX LODHI ROAD NEW DELHI, Delhi 110003 India +91 94180 28835\n- heading \"More by National Informatics Centre.\" [level=2]\n- link \"See more information on More by National Informatics Centre.\":\n  - /url: /store/apps/dev?id=9076108670215860604\n- link \"Mera Ration App National Informatics Centre. Rated 3.7 stars out of five stars\":\n  - /url: /store/apps/details?id=com.nic.onenationonecard\n  - text: Mera Ration App National Informatics Centre.\n  - img \"Rated 3.7 stars out of five stars\": \"3.7\"\n- link \"NSP OTR National Informatics Centre. Rated 4.5 stars out of five stars\":\n  - /url: /store/apps/details?id=in.gov.scholarships.nspotr\n  - text: NSP OTR National Informatics Centre.\n  - img \"Rated 4.5 stars out of five stars\": \"4.5\"\n- link \"JeevanPramaan National Informatics Centre. Rated 4.2 stars out of five stars\":\n  - /url: /store/apps/details?id=com.aadhaar.life\n  - text: JeevanPramaan National Informatics Centre.\n  - img \"Rated 4.2 stars out of five stars\": \"4.2\"\n- link \"PMKISAN GoI National Informatics Centre. Rated 3.8 stars out of five stars\":\n  - /url: /store/apps/details?id=com.nic.project.pmkisan\n  - text: PMKISAN GoI National Informatics Centre.\n  - img \"Rated 3.8 stars out of five stars\": \"3.8\"\n- link \"eCourts Services National Informatics Centre. Rated 3.3 stars out of five stars\":\n  - /url: /store/apps/details?id=in.gov.ecourts.eCourtsServices\n  - text: eCourts Services National Informatics Centre.\n  - img \"Rated 3.3 stars out of five stars\": \"3.3\"\n- link \"AadhaarBAS National Informatics Centre. Rated 2.6 stars out of five stars\":\n  - /url: /store/apps/details?id=com.aebas.aebas_client\n  - text: AadhaarBAS National Informatics Centre.\n  - img \"Rated 2.6 stars out of five stars\": \"2.6\"\n- heading \"Similar apps\" [level=2]\n- link \"See more information on Similar apps\":\n  - /url: /store/apps/collection/cluster?gsr=SnhqLDJKdGNPa1owdzJvekE1TUhDSVJESGM0cHZvRWdmOVZaZDh3aTF1YVhscE09wgJEChYKEmNvbS5uaWMubXBhcml2YWhhbhAHGAgwATgASh4IARAAGhJOZXh0R2VuIG1QYXJpdmFoYW4gACgAMABQAFgBYACwEgA%3D:S:ANO1ljLRzoc\n- link \"Vehicleinfo - RTO Information CARS24 Services Private Limited Rated 4.5 stars out of five stars\":\n  - /url: /store/apps/details?id=com.vehicle.rto.vahan.status.information.register\n  - text: Vehicleinfo - RTO Information CARS24 Services Private Limited\n  - img \"Rated 4.5 stars out of five stars\": \"4.5\"\n- 'link \"Axis Mobile: Pay, Invest & UPI Axis Bank Ltd. Rated 4.8 stars out of five stars\"':\n  - /url: /store/apps/details?id=com.axis.mobile\n  - text: \"Axis Mobile: Pay, Invest & UPI Axis Bank Ltd.\"\n  - img \"Rated 4.8 stars out of five stars\": \"4.8\"\n- link \"CarInfo - RTO Vehicle Info App CarInfo - Challans| FASTag | Buy & Sell Cars Rated 4.5 stars out of five stars\":\n  - /url: /store/apps/details?id=com.cuvora.carinfo\n  - text: CarInfo - RTO Vehicle Info App CarInfo - Challans| FASTag | Buy & Sell Cars\n  - img \"Rated 4.5 stars out of five stars\": \"4.5\"\n- link \"DigiLocker National eGovernance Division, Government of India Rated 4.2 stars out of five stars\":\n  - /url: /store/apps/details?id=com.digilocker.android\n  - text: DigiLocker National eGovernance Division, Government of India\n  - img \"Rated 4.2 stars out of five stars\": \"4.2\"\n- 'link \"Bajaj Finance : UPI & Loan App Bajaj Finance Limited Rated 4.7 stars out of five stars\"':\n  - /url: /store/apps/details?id=org.altruist.BajajExperia\n  - text: \"Bajaj Finance : UPI & Loan App Bajaj Finance Limited\"\n  - img \"Rated 4.7 stars out of five stars\": \"4.7\"\n- link \"APSRTC Andhra Pradesh State Road Transport Corporation Rated 3.9 stars out of five stars\":\n  - /url: /store/apps/details?id=com.apsrtc.online\n  - text: APSRTC Andhra Pradesh State Road Transport Corporation\n  - img \"Rated 3.9 stars out of five stars\": \"3.9\"\n- contentinfo:\n  - text: Google Play\n  - link \"Play Pass\":\n    - /url: /store/pass/getstarted\n    - paragraph: Play Pass\n  - link \"Play Points\":\n    - /url: /store/points/enroll\n    - paragraph: Play Points\n  - link \"Gift cards\":\n    - /url: https://play.google.com/about/giftcards\n    - paragraph: Gift cards\n  - link \"Redeem\":\n    - /url: /redeem\n    - paragraph: Redeem\n  - link \"Refund policy\":\n    - /url: https://support.google.com/googleplay/answer/134336\n    - paragraph: Refund policy\n  - text: Kids & family\n  - link \"Parent Guide\":\n    - /url: https://support.google.com/googleplay?p=pff_parentguide\n    - paragraph: Parent Guide\n  - link \"Family sharing\":\n    - /url: https://support.google.com/googleplay/answer/7007852\n    - paragraph: Family sharing\n  - link \"Terms of Service\":\n    - /url: https://play.google.com/intl/en-US_in/about/play-terms.html\n    - paragraph: Terms of Service\n  - link \"Privacy\":\n    - /url: https://policies.google.com/privacy\n    - paragraph: Privacy\n  - link \"About Google Play\":\n    - /url: https://support.google.com/googleplay/?p=about_play\n    - paragraph: About Google Play\n  - link \"Developers\":\n    - /url: http://developer.android.com/index.html\n    - paragraph: Developers\n  - link \"Google Store\":\n    - /url: https://store.google.com/?playredirect=true&utm_source=play&utm_medium=google_oo&utm_campaign=GS106288\n    - paragraph: Google Store\n  - text: All prices include GST. India (English (United States))\n- region:\n  - button \"Close screenshot viewer\"\n  - button \"Next\""
+}

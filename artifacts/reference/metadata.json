@@ -1,0 +1,29 @@
+{
+  "url": "https://play.google.com/store/apps/details?id=com.nic.mparivahan&hl=en&gl=IN",
+  "status": 200,
+  "capturedAt": "2026-10-23T15:34:26.363Z",
+  "browser": "156.0.8078.4",
+  "locale": "en-IN",
+  "htmlLang": "en",
+  "regionRequested": "IN",
+  "regionVerified": false,
+  "dpr": 1,
+  "fonts": [
+    {
+      "file": "font-0.woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2"
+    },
+    {
+      "file": "font-1.woff2",
+      "url": "https://fonts.gstatic.com/s/googlesans/v62/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2"
+    },
+    {
+      "file": "font-2.woff2",
+      "url": "https://fonts.gstatic.com/s/materialiconsextended/v154/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2"
+    },
+    {
+      "file": "font-3.woff2",
+      "url": "https://fonts.gstatic.com/s/googlematerialicons/v144/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2"
+    }
+  ]
+}

@@ -1,0 +1,1155 @@
+[
+  {
+    "tag": "HEADER",
+    "text": "google_logo Play\nsearch\nhelp_outline\nGames\nApps\nBooks\nKids",
+    "cls": "S3WLMd ",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 104
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgb(255, 255, 255)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "NAV",
+    "text": "google_logo Play\nsearch\nhelp_outline",
+    "cls": "oPjgQb",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 56
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "search",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ mN1ivc",
+    "rect": {
+      "x": 236,
+      "y": 4,
+      "width": 48,
+      "height": 48
+    },
+    "font": "24px / 24px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "help_outline",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ QDwDD mN1ivc",
+    "rect": {
+      "x": 284,
+      "y": 4,
+      "width": 48,
+      "height": 48
+    },
+    "font": "24px / 24px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ mN1ivc PeWVCc",
+    "rect": {
+      "x": 332,
+      "y": 4,
+      "width": 48,
+      "height": 48
+    },
+    "font": "32px / 32px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "",
+    "cls": "VfPpkd-kBDsod WrEZCd",
+    "rect": {
+      "x": 340,
+      "y": 12,
+      "width": 32,
+      "height": 32
+    },
+    "font": "32px / 32px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "100%",
+    "gap": "normal"
+  },
+  {
+    "tag": "NAV",
+    "text": "Games\nApps\nBooks\nKids",
+    "cls": "yyaGpb",
+    "rect": {
+      "x": 0,
+      "y": 56,
+      "width": 390,
+      "height": 48
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "",
+    "cls": "oiEt0d",
+    "rect": {
+      "x": 0,
+      "y": 104,
+      "width": 390,
+      "height": 219.375
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(232, 234, 237)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "play_arrow\nTrailer",
+    "cls": "cvriud ",
+    "rect": {
+      "x": 140.03125,
+      "y": 193.6875,
+      "width": 109.9375,
+      "height": 40
+    },
+    "font": "500 14px / 20px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Icon image",
+    "cls": "T75of cN0oRe fFmL2e",
+    "rect": {
+      "x": 24,
+      "y": 290.375,
+      "width": 72,
+      "height": 72
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(232, 234, 237)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "20%",
+    "gap": "normal"
+  },
+  {
+    "tag": "H1",
+    "text": "NextGen mParivahan",
+    "cls": "",
+    "rect": {
+      "x": 120,
+      "y": 283.375,
+      "width": 234.765625,
+      "height": 32
+    },
+    "font": "500 24px / 32px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(232, 234, 237)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Content rating",
+    "cls": "T75of xGa6dd",
+    "rect": {
+      "x": 170.578125,
+      "y": 394.375,
+      "width": 16,
+      "height": 16
+    },
+    "font": "500 14px / 20px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(232, 234, 237)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Install",
+    "cls": "VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 MjT6xe sOCCfd brKGGd BhQfub  zwjsl",
+    "rect": {
+      "x": 24,
+      "y": 472.375,
+      "width": 342,
+      "height": 36
+    },
+    "font": "500 14px / 20px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgb(0, 161, 115)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Share",
+    "cls": "VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-Bz112c-M1Soyc VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 yIoKuc aLey0c",
+    "rect": {
+      "x": 75.40625,
+      "y": 520.375,
+      "width": 85.734375,
+      "height": 40
+    },
+    "font": "500 14px / 14px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(0, 161, 115)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "4px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Add to wishlist",
+    "cls": "VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-Bz112c-M1Soyc VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 LS2TS aLey0c",
+    "rect": {
+      "x": 169.140625,
+      "y": 520.375,
+      "width": 145.4375,
+      "height": 40
+    },
+    "font": "500 14px / 14px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(0, 161, 115)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "4px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Screenshot image",
+    "cls": "T75of B5GQxf",
+    "rect": {
+      "x": 24,
+      "y": 638.375,
+      "width": 92,
+      "height": 204
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Screenshot image",
+    "cls": "T75of B5GQxf",
+    "rect": {
+      "x": 128,
+      "y": 638.375,
+      "width": 92,
+      "height": 204
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Screenshot image",
+    "cls": "T75of B5GQxf",
+    "rect": {
+      "x": 232,
+      "y": 638.375,
+      "width": 92,
+      "height": 204
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Screenshot image",
+    "cls": "T75of B5GQxf",
+    "rect": {
+      "x": 336,
+      "y": 638.375,
+      "width": 92,
+      "height": 204
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Screenshot image",
+    "cls": "T75of B5GQxf",
+    "rect": {
+      "x": 440,
+      "y": 638.375,
+      "width": 92,
+      "height": 204
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Screenshot image",
+    "cls": "T75of B5GQxf",
+    "rect": {
+      "x": 544,
+      "y": 638.375,
+      "width": 92,
+      "height": 204
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Screenshot image",
+    "cls": "T75of B5GQxf",
+    "rect": {
+      "x": 648,
+      "y": 638.375,
+      "width": 92,
+      "height": 204
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "chevron_right",
+    "cls": "VfPpkd-BIzmGd SaBhMc NNFoTc zI3eKe N7pe4e PcY7Ff DpB3re",
+    "rect": {
+      "x": 338,
+      "y": 713.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "background": "rgb(255, 255, 255)",
+    "borderRadius": "28px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "About this app\narrow_forward",
+    "cls": " cswwxf",
+    "rect": {
+      "x": 24,
+      "y": 864.375,
+      "width": 342,
+      "height": 48
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "H2",
+    "text": "About this app",
+    "cls": "XfZNbf",
+    "rect": {
+      "x": 24,
+      "y": 864.375,
+      "width": 122.5625,
+      "height": 24
+    },
+    "font": "500 18px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "arrow_forward",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ QDwDD mN1ivc VxpoF",
+    "rect": {
+      "x": 330,
+      "y": 852.375,
+      "width": 48,
+      "height": 48
+    },
+    "font": "500 24px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "Data safety\narrow_forward",
+    "cls": " cswwxf",
+    "rect": {
+      "x": 24,
+      "y": 1184.375,
+      "width": 342,
+      "height": 44
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "H2",
+    "text": "Data safety",
+    "cls": "XfZNbf",
+    "rect": {
+      "x": 24,
+      "y": 1184.375,
+      "width": 94.765625,
+      "height": 24
+    },
+    "font": "500 18px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Icon image",
+    "cls": "T75of whEyae",
+    "rect": {
+      "x": 45,
+      "y": 1379.375,
+      "width": 20,
+      "height": 20
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Icon image",
+    "cls": "T75of whEyae",
+    "rect": {
+      "x": 45,
+      "y": 1451.375,
+      "width": 20,
+      "height": 20
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Icon image",
+    "cls": "T75of whEyae",
+    "rect": {
+      "x": 45,
+      "y": 1507.375,
+      "width": 20,
+      "height": 20
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Icon image",
+    "cls": "T75of whEyae",
+    "rect": {
+      "x": 45,
+      "y": 1547.375,
+      "width": 20,
+      "height": 20
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "Ratings and reviews\nRatings and reviews are verified\ninfo_outline\narrow_forward",
+    "cls": " cswwxf",
+    "rect": {
+      "x": 24,
+      "y": 1644.375,
+      "width": 342,
+      "height": 96
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "H2",
+    "text": "Ratings and reviews",
+    "cls": "XfZNbf",
+    "rect": {
+      "x": 24,
+      "y": 1644.375,
+      "width": 198.046875,
+      "height": 24
+    },
+    "font": "500 18px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Ratings and reviews are verified\ninfo_outline",
+    "cls": "VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-Bz112c-UbuQg VfPpkd-LgbsSe-OWXEXe-dgl2Hf LjDxcd XhPA0b LQeN7 B8vmF",
+    "rect": {
+      "x": 24,
+      "y": 1674.375,
+      "width": 198.046875,
+      "height": 40
+    },
+    "font": "12px / 16px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "8px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "arrow_forward",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ QDwDD mN1ivc VxpoF",
+    "rect": {
+      "x": 330,
+      "y": 1632.375,
+      "width": 48,
+      "height": 48
+    },
+    "font": "500 24px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "Harshil Karani\nmore_vert\nSeptember 16, 2026",
+    "cls": "c1bOId",
+    "rect": {
+      "x": 24,
+      "y": 1956.375,
+      "width": 342,
+      "height": 84
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "",
+    "cls": "T75of abYEib",
+    "rect": {
+      "x": 24,
+      "y": 1964.375,
+      "width": 32,
+      "height": 32
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "50%",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "more_vert",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ mN1ivc",
+    "rect": {
+      "x": 318,
+      "y": 1956.375,
+      "width": 48,
+      "height": 48
+    },
+    "font": "24px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "Adit Newah\nmore_vert\nJuly 20, 2026",
+    "cls": "c1bOId",
+    "rect": {
+      "x": 24,
+      "y": 2532.375,
+      "width": 342,
+      "height": 84
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "",
+    "cls": "T75of abYEib",
+    "rect": {
+      "x": 24,
+      "y": 2540.375,
+      "width": 32,
+      "height": 32
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "50%",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "more_vert",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ mN1ivc",
+    "rect": {
+      "x": 318,
+      "y": 2532.375,
+      "width": 48,
+      "height": 48
+    },
+    "font": "24px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "uday kiran reddy Anumula\nmore_vert\nJuly 25, 2026",
+    "cls": "c1bOId",
+    "rect": {
+      "x": 24,
+      "y": 3148.375,
+      "width": 342,
+      "height": 84
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "",
+    "cls": "T75of abYEib",
+    "rect": {
+      "x": 24,
+      "y": 3156.375,
+      "width": 32,
+      "height": 32
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "50%",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "more_vert",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ mN1ivc",
+    "rect": {
+      "x": 318,
+      "y": 3148.375,
+      "width": 48,
+      "height": 48
+    },
+    "font": "24px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "See all reviews",
+    "cls": "VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 aLey0c",
+    "rect": {
+      "x": 24,
+      "y": 3490.375,
+      "width": 112.875,
+      "height": 40
+    },
+    "font": "500 14px / 20px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(1, 135, 95)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "4px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "App support\nexpand_more",
+    "cls": "",
+    "rect": {
+      "x": 24,
+      "y": 3556.375,
+      "width": 342,
+      "height": 28
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "H2",
+    "text": "App support",
+    "cls": "XfZNbf",
+    "rect": {
+      "x": 24,
+      "y": 3556.375,
+      "width": 105.25,
+      "height": 24
+    },
+    "font": "500 18px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "expand_more",
+    "cls": "VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ mN1ivc VxpoF",
+    "rect": {
+      "x": 330,
+      "y": 3544.375,
+      "width": 48,
+      "height": 48
+    },
+    "font": "500 24px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "More by National Informatics Centre.\narrow_forward",
+    "cls": " cswwxf",
+    "rect": {
+      "x": 24,
+      "y": 3604.375,
+      "width": 342,
+      "height": 68
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "H2",
+    "text": "More by National Informatics Centre.",
+    "cls": "XfZNbf",
+    "rect": {
+      "x": 24,
+      "y": 3604.375,
+      "width": 302,
+      "height": 48
+    },
+    "font": "500 18px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 24,
+      "y": 3672.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 207,
+      "y": 3672.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 24,
+      "y": 3752.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 207,
+      "y": 3752.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 24,
+      "y": 3832.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 207,
+      "y": 3832.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "HEADER",
+    "text": "Similar apps\narrow_forward",
+    "cls": " cswwxf",
+    "rect": {
+      "x": 24,
+      "y": 3908.375,
+      "width": 342,
+      "height": 44
+    },
+    "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "H2",
+    "text": "Similar apps",
+    "cls": "XfZNbf",
+    "rect": {
+      "x": 24,
+      "y": 3908.375,
+      "width": 100.625,
+      "height": 24
+    },
+    "font": "500 18px / 24px \"Google Sans\", Roboto, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+    "color": "rgb(32, 33, 36)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 24,
+      "y": 3952.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 207,
+      "y": 3952.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 24,
+      "y": 4032.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 207,
+      "y": 4032.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 24,
+      "y": 4112.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "Thumbnail image",
+    "cls": "T75of stzEZd",
+    "rect": {
+      "x": 207,
+      "y": 4112.375,
+      "width": 56,
+      "height": 56
+    },
+    "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "12px",
+    "gap": "normal"
+  },
+  {
+    "tag": "IMG",
+    "text": "",
+    "alt": "",
+    "cls": "GrpFfc",
+    "rect": {
+      "x": 24,
+      "y": 4736.375,
+      "width": 24,
+      "height": 18
+    },
+    "font": "12px / 48px \"Google Sans\", Helvetica, Arial, sans-serif",
+    "fontFamily": "\"Google Sans\", Helvetica, Arial, sans-serif",
+    "color": "rgb(95, 99, 104)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "gap": "normal"
+  }
+]

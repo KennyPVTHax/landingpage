@@ -1,0 +1,97 @@
+{
+  "width": 390,
+  "scrollWidth": 390,
+  "headings": [
+    {
+      "text": "NextGen mParivahan",
+      "rect": {
+        "x": 120,
+        "y": 283.375,
+        "width": 234.765625,
+        "height": 32,
+        "top": 283.375,
+        "right": 354.765625,
+        "bottom": 315.375,
+        "left": 120
+      }
+    },
+    {
+      "text": "About this app",
+      "rect": {
+        "x": 24,
+        "y": 864.375,
+        "width": 122.5625,
+        "height": 24,
+        "top": 864.375,
+        "right": 146.5625,
+        "bottom": 888.375,
+        "left": 24
+      }
+    },
+    {
+      "text": "Data safety",
+      "rect": {
+        "x": 24,
+        "y": 1196.375,
+        "width": 94.765625,
+        "height": 24,
+        "top": 1196.375,
+        "right": 118.765625,
+        "bottom": 1220.375,
+        "left": 24
+      }
+    },
+    {
+      "text": "Ratings and reviews",
+      "rect": {
+        "x": 24,
+        "y": 1673.375,
+        "width": 165.828125,
+        "height": 24,
+        "top": 1673.375,
+        "right": 189.828125,
+        "bottom": 1697.375,
+        "left": 24
+      }
+    },
+    {
+      "text": "App support\nexpand_more",
+      "rect": {
+        "x": 24,
+        "y": 3723.375,
+        "width": 342,
+        "height": 40,
+        "top": 3723.375,
+        "right": 366,
+        "bottom": 3763.375,
+        "left": 24
+      }
+    },
+    {
+      "text": "More by National Informatics Centre.",
+      "rect": {
+        "x": 24,
+        "y": 3799.375,
+        "width": 307.15625,
+        "height": 24,
+        "top": 3799.375,
+        "right": 331.15625,
+        "bottom": 3823.375,
+        "left": 24
+      }
+    },
+    {
+      "text": "Similar apps",
+      "rect": {
+        "x": 24,
+        "y": 4095.375,
+        "width": 100.625,
+        "height": 24,
+        "top": 4095.375,
+        "right": 124.625,
+        "bottom": 4119.375,
+        "left": 24
+      }
+    }
+  ]
+}

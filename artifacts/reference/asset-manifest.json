@@ -1,0 +1,563 @@
+[
+  {
+    "alt": "",
+    "src": "https://fonts.gstatic.com/s/i/productlogos/avatar_anonymous/v4/web-32dp/logo_avatar_anonymous_color_1x_web_32dp.png",
+    "width": 32,
+    "height": 32,
+    "rect": {
+      "width": 32,
+      "height": 32
+    },
+    "file": "image-0.png",
+    "bytes": 645,
+    "contentType": "image/png"
+  },
+  {
+    "alt": "",
+    "src": "https://i.ytimg.com/vi/d0JuFxJIukc/hqdefault.jpg",
+    "width": 480,
+    "height": 360,
+    "rect": {
+      "width": 1067,
+      "height": 600
+    },
+    "file": "image-1.jpg",
+    "bytes": 6226,
+    "contentType": "image/jpeg"
+  },
+  {
+    "alt": "Icon image",
+    "src": "https://play-lh.googleusercontent.com/UPyefodA-z6CpCFyQ6f2Gf4v2_qOdP-VroqRh-S4xKL6uKD7stMPKq4goEESGZe3mlsAS-oD9RljiDv7mJDUXrk=w240-h480-rw",
+    "width": 240,
+    "height": 240,
+    "rect": {
+      "width": 0,
+      "height": 0
+    },
+    "file": "image-2.webp",
+    "bytes": 8740,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Icon image",
+    "src": "https://play-lh.googleusercontent.com/UPyefodA-z6CpCFyQ6f2Gf4v2_qOdP-VroqRh-S4xKL6uKD7stMPKq4goEESGZe3mlsAS-oD9RljiDv7mJDUXrk=s48-rw",
+    "width": 48,
+    "height": 48,
+    "rect": {
+      "width": 48,
+      "height": 48
+    },
+    "file": "image-3.webp",
+    "bytes": 1124,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Content rating",
+    "src": "https://play-lh.googleusercontent.com/_re6mcALPaqotePA0WkgYeOQ6TighHRUS62FRmREPEhyZPdGM3QmRjcSpiMt6Pz1O-WZyvEIy4mtGHj9zw=w48-h16-rw",
+    "width": 16,
+    "height": 16,
+    "rect": {
+      "width": 0,
+      "height": 0
+    },
+    "file": "image-4.webp",
+    "bytes": 248,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Content rating",
+    "src": "https://play-lh.googleusercontent.com/_re6mcALPaqotePA0WkgYeOQ6TighHRUS62FRmREPEhyZPdGM3QmRjcSpiMt6Pz1O-WZyvEIy4mtGHj9zw=s38-rw",
+    "width": 38,
+    "height": 38,
+    "rect": {
+      "width": 0,
+      "height": 0
+    },
+    "file": "image-5.webp",
+    "bytes": 698,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Screenshot image",
+    "src": "https://play-lh.googleusercontent.com/JtFWJ080xwdOrL_T17155pmDmCQ9CFYb2T4mQfoOMdBp7v7q-RNNj34iykGZH1O0WBePwC2MmOzaJ9Dsl-F6DQ=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "rect": {
+      "width": 131,
+      "height": 296
+    },
+    "file": "image-6.webp",
+    "bytes": 17836,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Screenshot image",
+    "src": "https://play-lh.googleusercontent.com/MZCJQNj6VvZdqTKXNWy0JjGbmPgB7K8rqg-pHj8i7JN3HQ9Mh_S-_x7-xam8SlAk2tC9EwQUxPZPvsJ4LeQbHVA=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "rect": {
+      "width": 131,
+      "height": 296
+    },
+    "file": "image-7.webp",
+    "bytes": 7356,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Screenshot image",
+    "src": "https://play-lh.googleusercontent.com/J2GFMSotwFS0RcKdSWgSQnEKkOlV_YgmolO2HQ7PFyPLp9vbUoYPq0SFcqGiu6i8hB1DobCvFdHOEt6tJAePuA=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "rect": {
+      "width": 131,
+      "height": 296
+    },
+    "file": "image-8.webp",
+    "bytes": 12362,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Screenshot image",
+    "src": "https://play-lh.googleusercontent.com/iSww52ZWwO92FQjJXzx4tw9YcQwGb7AqwKhpZ_Xyw2RR-tOuVvxfA6frdUxhztlxlWnI4EGmbqVGean4RJLe9i4=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "rect": {
+      "width": 131,
+      "height": 296
+    },
+    "file": "image-9.webp",
+    "bytes": 9700,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Screenshot image",
+    "src": "https://play-lh.googleusercontent.com/Vo73Gic-eCRlXt7hvkoHEPmsAvSI08wDigxnWcuTl_hC_MtP3pr_NoXT9KlhZn_irmEr-etEgWiuuEP48ksVIg=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "rect": {
+      "width": 131,
+      "height": 296
+    },
+    "file": "image-10.webp",
+    "bytes": 5726,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Screenshot image",
+    "src": "https://play-lh.googleusercontent.com/wCdzrA0i_z1pP_2HjXy6u1HdupMSznTwvVlpo7nnWX2kOiYefmImKjuPjHzmRlH344wL5IM9YVQL5VcmksUcgw=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "rect": {
+      "width": 131,
+      "height": 296
+    },
+    "file": "image-11.webp",
+    "bytes": 9896,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Screenshot image",
+    "src": "https://play-lh.googleusercontent.com/3DBV5T4UxbjTvPkEofUWwOBWZ7NVyd-yHfYweSsnPhbpMrewulejeUT-cHVv478NHx8Pnb99uy3sycNAEL0U=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "rect": {
+      "width": 131,
+      "height": 296
+    },
+    "file": "image-12.webp",
+    "bytes": 7694,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Icon image",
+    "src": "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s20-rw",
+    "width": 20,
+    "height": 20,
+    "rect": {
+      "width": 20,
+      "height": 20
+    },
+    "file": "image-13.webp",
+    "bytes": 200,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Icon image",
+    "src": "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s20-rw",
+    "width": 20,
+    "height": 20,
+    "rect": {
+      "width": 20,
+      "height": 20
+    },
+    "file": "image-14.webp",
+    "bytes": 244,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Icon image",
+    "src": "https://play-lh.googleusercontent.com/W5DPtvB8Fhmkn5LbFZki_OHL3ZI1Rdc-AFul19UK4f7np2NMjLE5QquD6H0HAeEJ977u3WH4yaQ=s20-rw",
+    "width": 20,
+    "height": 20,
+    "rect": {
+      "width": 20,
+      "height": 20
+    },
+    "file": "image-15.webp",
+    "bytes": 200,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Icon image",
+    "src": "https://play-lh.googleusercontent.com/ohRyQRA9rNfhp7xLW0MtW1soD8SEX45Oec7MyH3FaxtukWUG_6GKVpvh3JiugzryLi7Bia02HPw=s20-rw",
+    "width": 20,
+    "height": 20,
+    "rect": {
+      "width": 20,
+      "height": 20
+    },
+    "file": "image-16.webp",
+    "bytes": 164,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "",
+    "src": "https://play-lh.googleusercontent.com/a/ACg8ocIWh3Fx_1oJowqFeLBHZYeo4sfrHfsdU45wgCMTMEJI_iaTQg=s32-rw-mo",
+    "width": 32,
+    "height": 32,
+    "rect": {
+      "width": 32,
+      "height": 32
+    },
+    "file": "image-17.webp",
+    "bytes": 202,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "",
+    "src": "https://play-lh.googleusercontent.com/a-/ALV-UjUYW2oboV1LWc76Zqhg2lR7pXDe0G1jpP9fb6V5RzWcVZANGaR4=s32-rw",
+    "width": 32,
+    "height": 32,
+    "rect": {
+      "width": 32,
+      "height": 32
+    },
+    "file": "image-18.webp",
+    "bytes": 694,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "",
+    "src": "https://play-lh.googleusercontent.com/a-/ALV-UjWhSN2ryvCvz1iM8-nyce4QieHow7fvbUQJ4XZDtAQyDsVRP4m2IA=s32-rw",
+    "width": 32,
+    "height": 32,
+    "rect": {
+      "width": 32,
+      "height": 32
+    },
+    "file": "image-19.webp",
+    "bytes": 504,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Content rating",
+    "src": "https://play-lh.googleusercontent.com/_re6mcALPaqotePA0WkgYeOQ6TighHRUS62FRmREPEhyZPdGM3QmRjcSpiMt6Pz1O-WZyvEIy4mtGHj9zw=s38-rw",
+    "width": 38,
+    "height": 38,
+    "rect": {
+      "width": 38,
+      "height": 38
+    },
+    "file": "image-20.webp",
+    "bytes": 698,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/2H_dYrAj-2LommrjOD8T3-Yn21IUPfDrjHWniGIYLsNFtK3ohzKN1XxMjV90sa8MAbMnc_ZxdrxWOpclVwMG=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-21.webp",
+    "bytes": 3926,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/S9PF3eL7xIR1VgpgPzid6zOBPvPdL99JZTpTJQEyB0WjoIbq4hJ27rUjcie3_mhm2qxnaqXJnfzV_dm64ZHa=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-22.webp",
+    "bytes": 1686,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/wIWurMlWgTsXlw49_BJydzpT9rYvdgEAUgNlABAgY7qP3xqHXiaWk6JvAzlwuA5ULZvCuxVPrdtq972k67VcJJY=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-23.webp",
+    "bytes": 1186,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/LAWWNo6D1eow5AjXRMSoFreV0hWSpkQoDVUJH76GGR7Z-hVxsrb_ci122XdQEZuAvmOrP5-aLri0VFXMOtf_XQ=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-24.webp",
+    "bytes": 1152,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/lgKg4WoSR1YJqgLbCIgLJUqHV-d2QySfYKaJ2Ej-MZo1Qq4_t1F2oYPcnqs_9vQkh55vwdGxucZhkKuCaX5UHQ=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-25.webp",
+    "bytes": 2940,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/kovldIpi-x-dslhZTfLsdwJP-ESxdXza3O_mDS7evJ0_kKlmtV752MY34NqnfYoNP0QD0C-RkEWTA8NHDpTo=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-26.webp",
+    "bytes": 2702,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/_Uz3TXbrMN_ZECw7MRqOcbMM-e2WjslW2fkcsLLug7p3k8lXo4jfabi0pzTkBolulCIgSNgXjpjJPHoArQG2YQ=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-27.webp",
+    "bytes": 1274,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/OQSiBrgEsPz11-K5CFO2p4QzDOhKGkUgzso5NCMKlvlgux6Pvt_sFd3OBoIdhMnEXb6IErxGS6DQtz_nS35nVp4=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-28.webp",
+    "bytes": 3640,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/pZQowHx0ANVf_7Kra61qgi6NCX3gYgLiQgz3NYlaVoCYMTQu4T_b_lumz9KjqjiOegEF8Q8QJXGQ3YlwU9wtMA=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-29.webp",
+    "bytes": 2008,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/Y2zXVaxt727emp12bdpQF4AyPziGEGxr77V_vaVWBChChzPv1cGu8mNMYbC4Lsfz35ROnU-fGqg7uI8g_3hsZw=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-30.webp",
+    "bytes": 4160,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/Kl7D3zaY9ABgd9W0Jh2QoBOXxLs8Nb2Q96qooy4LhaMqCP9obiYfqDdzNT0YrmmXVvqZiAAKgqodr_vH_9LoG-w=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-31.webp",
+    "bytes": 4264,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "Thumbnail image",
+    "src": "https://play-lh.googleusercontent.com/yfo76ZSCEwPH1C_h8-EzFLgrdoKPRN8O3ooRKB05H1Sm5e5WRF3b022dLL0bxfh_ZjfIQdAvE3mU0H2zfmsg9Ys=s64-rw",
+    "width": 64,
+    "height": 64,
+    "rect": {
+      "width": 64,
+      "height": 64
+    },
+    "file": "image-32.webp",
+    "bytes": 3682,
+    "contentType": "image/webp"
+  },
+  {
+    "alt": "",
+    "src": "https://ssl.gstatic.com/store/images/regionflags/india.png",
+    "width": 48,
+    "height": 36,
+    "rect": {
+      "width": 24,
+      "height": 18
+    },
+    "file": "image-33.png",
+    "bytes": 208,
+    "contentType": "image/png"
+  },
+  {
+    "file": "screenshot-mobile-0.webp",
+    "src": "https://play-lh.googleusercontent.com/JtFWJ080xwdOrL_T17155pmDmCQ9CFYb2T4mQfoOMdBp7v7q-RNNj34iykGZH1O0WBePwC2MmOzaJ9Dsl-F6DQ=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "bytes": 17836,
+    "alt": "Mobile screenshot image"
+  },
+  {
+    "file": "screenshot-mobile-1.webp",
+    "src": "https://play-lh.googleusercontent.com/MZCJQNj6VvZdqTKXNWy0JjGbmPgB7K8rqg-pHj8i7JN3HQ9Mh_S-_x7-xam8SlAk2tC9EwQUxPZPvsJ4LeQbHVA=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "bytes": 7356,
+    "alt": "Mobile screenshot image"
+  },
+  {
+    "file": "screenshot-mobile-2.webp",
+    "src": "https://play-lh.googleusercontent.com/J2GFMSotwFS0RcKdSWgSQnEKkOlV_YgmolO2HQ7PFyPLp9vbUoYPq0SFcqGiu6i8hB1DobCvFdHOEt6tJAePuA=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "bytes": 12362,
+    "alt": "Mobile screenshot image"
+  },
+  {
+    "file": "screenshot-mobile-3.webp",
+    "src": "https://play-lh.googleusercontent.com/iSww52ZWwO92FQjJXzx4tw9YcQwGb7AqwKhpZ_Xyw2RR-tOuVvxfA6frdUxhztlxlWnI4EGmbqVGean4RJLe9i4=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "bytes": 9700,
+    "alt": "Mobile screenshot image"
+  },
+  {
+    "file": "screenshot-mobile-4.webp",
+    "src": "https://play-lh.googleusercontent.com/Vo73Gic-eCRlXt7hvkoHEPmsAvSI08wDigxnWcuTl_hC_MtP3pr_NoXT9KlhZn_irmEr-etEgWiuuEP48ksVIg=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "bytes": 5726,
+    "alt": "Mobile screenshot image"
+  },
+  {
+    "file": "screenshot-mobile-5.webp",
+    "src": "https://play-lh.googleusercontent.com/wCdzrA0i_z1pP_2HjXy6u1HdupMSznTwvVlpo7nnWX2kOiYefmImKjuPjHzmRlH344wL5IM9YVQL5VcmksUcgw=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "bytes": 9896,
+    "alt": "Mobile screenshot image"
+  },
+  {
+    "file": "screenshot-mobile-6.webp",
+    "src": "https://play-lh.googleusercontent.com/3DBV5T4UxbjTvPkEofUWwOBWZ7NVyd-yHfYweSsnPhbpMrewulejeUT-cHVv478NHx8Pnb99uy3sycNAEL0U=w526-h296-rw",
+    "width": 131,
+    "height": 296,
+    "bytes": 7694,
+    "alt": "Mobile screenshot image"
+  },
+  {
+    "file": "screenshot-full-0.webp",
+    "src": "https://play-lh.googleusercontent.com/JtFWJ080xwdOrL_T17155pmDmCQ9CFYb2T4mQfoOMdBp7v7q-RNNj34iykGZH1O0WBePwC2MmOzaJ9Dsl-F6DQ=w2560-h1440-rw",
+    "bytes": 397424,
+    "width": 639,
+    "height": 1440,
+    "dimensionNote": "Image 0 verified in official lightbox; remaining gallery images requested with the same observed public resizing parameter. Exact dimensions also enumerated by asset-manifest generator.",
+    "alt": "Full screenshot 1"
+  },
+  {
+    "file": "screenshot-full-1.webp",
+    "src": "https://play-lh.googleusercontent.com/MZCJQNj6VvZdqTKXNWy0JjGbmPgB7K8rqg-pHj8i7JN3HQ9Mh_S-_x7-xam8SlAk2tC9EwQUxPZPvsJ4LeQbHVA=w2560-h1440-rw",
+    "bytes": 253890,
+    "width": 639,
+    "height": 1440,
+    "dimensionNote": "Image 0 verified in official lightbox; remaining gallery images requested with the same observed public resizing parameter. Exact dimensions also enumerated by asset-manifest generator.",
+    "alt": "Full screenshot 2"
+  },
+  {
+    "file": "screenshot-full-2.webp",
+    "src": "https://play-lh.googleusercontent.com/J2GFMSotwFS0RcKdSWgSQnEKkOlV_YgmolO2HQ7PFyPLp9vbUoYPq0SFcqGiu6i8hB1DobCvFdHOEt6tJAePuA=w2560-h1440-rw",
+    "bytes": 272860,
+    "width": 639,
+    "height": 1440,
+    "dimensionNote": "Image 0 verified in official lightbox; remaining gallery images requested with the same observed public resizing parameter. Exact dimensions also enumerated by asset-manifest generator.",
+    "alt": "Full screenshot 3"
+  },
+  {
+    "file": "screenshot-full-3.webp",
+    "src": "https://play-lh.googleusercontent.com/iSww52ZWwO92FQjJXzx4tw9YcQwGb7AqwKhpZ_Xyw2RR-tOuVvxfA6frdUxhztlxlWnI4EGmbqVGean4RJLe9i4=w2560-h1440-rw",
+    "bytes": 258174,
+    "width": 639,
+    "height": 1440,
+    "dimensionNote": "Image 0 verified in official lightbox; remaining gallery images requested with the same observed public resizing parameter. Exact dimensions also enumerated by asset-manifest generator.",
+    "alt": "Full screenshot 4"
+  },
+  {
+    "file": "screenshot-full-4.webp",
+    "src": "https://play-lh.googleusercontent.com/Vo73Gic-eCRlXt7hvkoHEPmsAvSI08wDigxnWcuTl_hC_MtP3pr_NoXT9KlhZn_irmEr-etEgWiuuEP48ksVIg=w2560-h1440-rw",
+    "bytes": 193194,
+    "width": 639,
+    "height": 1440,
+    "dimensionNote": "Image 0 verified in official lightbox; remaining gallery images requested with the same observed public resizing parameter. Exact dimensions also enumerated by asset-manifest generator.",
+    "alt": "Full screenshot 5"
+  },
+  {
+    "file": "screenshot-full-5.webp",
+    "src": "https://play-lh.googleusercontent.com/wCdzrA0i_z1pP_2HjXy6u1HdupMSznTwvVlpo7nnWX2kOiYefmImKjuPjHzmRlH344wL5IM9YVQL5VcmksUcgw=w2560-h1440-rw",
+    "bytes": 235432,
+    "width": 639,
+    "height": 1440,
+    "dimensionNote": "Image 0 verified in official lightbox; remaining gallery images requested with the same observed public resizing parameter. Exact dimensions also enumerated by asset-manifest generator.",
+    "alt": "Full screenshot 6"
+  },
+  {
+    "file": "screenshot-full-6.webp",
+    "src": "https://play-lh.googleusercontent.com/3DBV5T4UxbjTvPkEofUWwOBWZ7NVyd-yHfYweSsnPhbpMrewulejeUT-cHVv478NHx8Pnb99uy3sycNAEL0U=w2560-h1440-rw",
+    "bytes": 174534,
+    "width": 639,
+    "height": 1440,
+    "dimensionNote": "Image 0 verified in official lightbox; remaining gallery images requested with the same observed public resizing parameter. Exact dimensions also enumerated by asset-manifest generator.",
+    "alt": "Full screenshot 7"
+  }
+]

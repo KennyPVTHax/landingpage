@@ -1,0 +1,12 @@
+:root {
+  --ink: #202124;
+  --muted: #5f6368;
+  --green: #01875f;
+  --hero-green: #00a173;
+  --line: #dadce0;
+  --surface: #fff;
+  --page-width: 1296px;
+  --gutter: 72px;
+  --sans: "Google Sans", Roboto, Arial, sans-serif;
+  --body: Roboto, Arial, sans-serif;
+}
