@@ -374,8 +374,12 @@ export default function App() {
                 </div>
               </div>
               <div className="hero-actions">
-                <a className="install" href={listing.officialUrl} {...external}>
-                  Install
+                <a
+  className="install"
+  data-apk-install=""
+  aria-disabled="true"
+>
+  Download Developer APK
                 </a>
                 <div className="secondary-actions">
                   <button className="text-button" onClick={share}>
