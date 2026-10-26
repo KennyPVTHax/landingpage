@@ -1,0 +1,201 @@
+- banner:
+  - navigation "Page Header":
+    - link "Google Play logo":
+      - /url: /store/games
+    - navigation "Main":
+      - tablist:
+        - tab "Games"
+        - tab "Apps" [selected]
+        - tab "Books"
+        - tab "Kids"
+    - button "Search"
+    - button "Help Center"
+    - button "Open account menu"
+- heading "NextGen mParivahan" [level=1]
+- link "National Informatics Centre.":
+  - /url: /store/apps/dev?id=9076108670215860604
+- region "Information badges":
+  - img "Rated 3.7 stars out of five stars"
+  - text: 729K reviews
+  - img "Government App": Government
+  - button "More info about the Government badge"
+  - text: 100M+ Downloads
+- button "Install"
+- button "Share"
+- button "Add to wishlist"
+- button "Play trailer": Trailer
+- list:
+  - listitem:
+    - button "Screenshot image"
+  - listitem:
+    - button "Screenshot image"
+  - listitem:
+    - button "Screenshot image"
+  - listitem:
+    - button "Screenshot image"
+  - listitem:
+    - button "Screenshot image"
+  - listitem:
+    - button "Screenshot image"
+  - listitem:
+    - button "Screenshot image"
+- heading "About this app" [level=2]
+- button "See more information on About this app"
+- text: "Provides Transport Service access to citizens through a mobile-based application. This app empowers citizen with instant access to various information, services and utilities related to the Transport Sector. Aimed to bring convenience to citizen and transparency in the system. It is a genuine government app for all India RTO vehicle registration number search. It provides complete information about any vehicle which is registered in India like - - Owner Name - Registration date - Registering Authority - Make Model - Fuel Type - Vehicle Age - Vehicle class - Insurance Validity - Fitness Validity All this information will be displayed in details. The main benefits of this app are - 1. Find details of any parked, accidental or theft vehicle by just entering the registration number. 2. Verify your car registration details. 3. Verify details of a second-hand vehicle. 4. If you want to buy a second-hand car you can verify the age and registration details. Along with the above features, you can also verify DL details and create virtual DL and RC in this app. Highlights: Virtual RC/DL, Encrypted QR Code, Information Services, DL/RC search, Transport Notification to the citizen, RTO/Traffic Office Locations. Complete Transport Office related services will also be facilitated soon.."
+- note "Complete Transport Solution for Citizen"
+- text: Updated on Sep 30, 2026
+- link "Productivity":
+  - /url: /store/apps/category/PRODUCTIVITY
+- heading "Data safety" [level=2]
+- link "See more information on Data safety":
+  - /url: /store/apps/datasafety?id=com.nic.mparivahan
+- text: Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
+- list:
+  - listitem:
+    - text: No data shared with third parties
+    - link "Learn more":
+      - /url: https://support.google.com/googleplay?p=data-safety&hl=en
+    - text: about how developers declare sharing
+  - listitem: This app may collect these data types Location, Personal info and 5 others
+  - listitem: Data is encrypted in transit
+  - listitem: You can request that data be deleted
+- link "See more details on data safety":
+  - /url: /store/apps/datasafety?id=com.nic.mparivahan
+- heading "Ratings and reviews" [level=2]
+- button "See more information on Ratings and reviews"
+- button "Ratings and reviews are verified"
+- list:
+  - listitem:
+    - button "Phone" [pressed]
+  - listitem:
+    - button "Tablet"
+- img "Rated 3.7 stars out of five stars"
+- text: 726K reviews
+- img "422,597 reviews for star rating 5"
+- img "58,964 reviews for star rating 4"
+- img "34,834 reviews for star rating 3"
+- img "27,990 reviews for star rating 2"
+- img "182,005 reviews for star rating 1"
+- text: Harshil Karani
+- button "More review actions"
+- img "Rated 1 stars out of five stars"
+- text: September 16, 2026 Not working, every time I login it says unexpected error or says you are logging in from different device. Doesn't work when you need it the most. tried reinstalling too still doesn't work. cleared cache too. It worked well in the past but now it just doesn't. I wrote that I already reinstalled and tried clearing cache. still same auto reply. 170 people found this review helpful Did you find this helpful?
+- button "Yes"
+- button "No"
+- text: National Informatics Centre. September 15, 2026 Hi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this. Adit Newah
+- button "More review actions"
+- img "Rated 1 stars out of five stars"
+- text: July 20, 2026 Was better, got worse. I had my vehicle details stored in the app for quite some time now. However when i wanted to check something about my vehicle now i can't find the info anymore. So, i tried adding my vehicle again just to get prompted to enter OTP which just has a validity of 30secs. While I was able to enter the OTP i got Unexpected error message and the OTP session got expired and had to regenerate the OTP and re-enter to get the same result. This happened several times. Annoying. 105 people found this review helpful Did you find this helpful?
+- button "Yes"
+- button "No"
+- text: National Informatics Centre. July 20, 2026 Hi, Sorry about the inconvenience. Try clearing the cache or reinstalling the app. In case the issue still persists, kindly send the error screenshot to helpdesk-mparivahan@gov.in along with the contact details so that we check this. uday kiran reddy Anumula
+- button "More review actions"
+- img "Rated 1 stars out of five stars"
+- text: July 25, 2026 This app doesn't even allow me to sign up. What's the purpose if it doesn't have bare minimum maintainance? It's been three days and it still shows same error all the times. Tried clearing cache, reinstalled app several times, tried signing up at midnight when the app traffic is low. None of it works. App doesn't even allow sceeenshot to post it here. 113 people found this review helpful Did you find this helpful?
+- button "Yes"
+- button "No"
+- button "See all reviews"
+- link "Flag as inappropriate (opens in new window)":
+  - /url: https://support.google.com/googleplay/?p=report_content
+  - text: Flag as inappropriate
+- img "Content rating"
+- text: Rated for 3+
+- link "Learn more about content ratings (opens in new window)":
+  - /url: https://support.google.com/googleplay?p=appgame_ratings
+  - text: Learn more
+- heading "App support" [level=2]
+- button "Expand"
+- heading "More by National Informatics Centre." [level=2]
+- link "See more information on More by National Informatics Centre.":
+  - /url: /store/apps/dev?id=9076108670215860604
+- link "Mera Ration App National Informatics Centre. Rated 3.7 stars out of five stars":
+  - /url: /store/apps/details?id=com.nic.onenationonecard
+  - text: Mera Ration App National Informatics Centre.
+  - img "Rated 3.7 stars out of five stars": "3.7"
+- link "NSP OTR National Informatics Centre. Rated 4.5 stars out of five stars":
+  - /url: /store/apps/details?id=in.gov.scholarships.nspotr
+  - text: NSP OTR National Informatics Centre.
+  - img "Rated 4.5 stars out of five stars": "4.5"
+- link "JeevanPramaan National Informatics Centre. Rated 4.2 stars out of five stars":
+  - /url: /store/apps/details?id=com.aadhaar.life
+  - text: JeevanPramaan National Informatics Centre.
+  - img "Rated 4.2 stars out of five stars": "4.2"
+- link "PMKISAN GoI National Informatics Centre. Rated 3.8 stars out of five stars":
+  - /url: /store/apps/details?id=com.nic.project.pmkisan
+  - text: PMKISAN GoI National Informatics Centre.
+  - img "Rated 3.8 stars out of five stars": "3.8"
+- link "eCourts Services National Informatics Centre. Rated 3.3 stars out of five stars":
+  - /url: /store/apps/details?id=in.gov.ecourts.eCourtsServices
+  - text: eCourts Services National Informatics Centre.
+  - img "Rated 3.3 stars out of five stars": "3.3"
+- link "AadhaarBAS National Informatics Centre. Rated 2.6 stars out of five stars":
+  - /url: /store/apps/details?id=com.aebas.aebas_client
+  - text: AadhaarBAS National Informatics Centre.
+  - img "Rated 2.6 stars out of five stars": "2.6"
+- heading "Similar apps" [level=2]
+- link "See more information on Similar apps":
+  - /url: /store/apps/collection/cluster?gsr=SnhqLERUYS9pcTV3RkdsVFBndW0rNUFDa0prcy9ZOXFEc2VpOW5tM2V0ZFN5WUE9wgJEChYKEmNvbS5uaWMubXBhcml2YWhhbhAHGAgwATgASh4IARAAGhJOZXh0R2VuIG1QYXJpdmFoYW4gACgAMABQAFgBYACwEgA%3D:S:ANO1ljLvGB4
+- link "Vehicleinfo - RTO Information CARS24 Services Private Limited Rated 4.5 stars out of five stars":
+  - /url: /store/apps/details?id=com.vehicle.rto.vahan.status.information.register
+  - text: Vehicleinfo - RTO Information CARS24 Services Private Limited
+  - img "Rated 4.5 stars out of five stars": "4.5"
+- 'link "Axis Mobile: Pay, Invest & UPI Axis Bank Ltd. Rated 4.8 stars out of five stars"':
+  - /url: /store/apps/details?id=com.axis.mobile
+  - text: "Axis Mobile: Pay, Invest & UPI Axis Bank Ltd."
+  - img "Rated 4.8 stars out of five stars": "4.8"
+- link "DigiLocker National eGovernance Division, Government of India Rated 4.2 stars out of five stars":
+  - /url: /store/apps/details?id=com.digilocker.android
+  - text: DigiLocker National eGovernance Division, Government of India
+  - img "Rated 4.2 stars out of five stars": "4.2"
+- link "CarInfo - RTO Vehicle Info App CarInfo - Challans| FASTag | Buy & Sell Cars Rated 4.5 stars out of five stars":
+  - /url: /store/apps/details?id=com.cuvora.carinfo
+  - text: CarInfo - RTO Vehicle Info App CarInfo - Challans| FASTag | Buy & Sell Cars
+  - img "Rated 4.5 stars out of five stars": "4.5"
+- link "iGOT Karmayogi Karmayogi Bharat Rated 4.5 stars out of five stars":
+  - /url: /store/apps/details?id=com.igot.karmayogibharat
+  - text: iGOT Karmayogi Karmayogi Bharat
+  - img "Rated 4.5 stars out of five stars": "4.5"
+- 'link "Bajaj Finance : UPI & Loan App Bajaj Finance Limited Rated 4.7 stars out of five stars"':
+  - /url: /store/apps/details?id=org.altruist.BajajExperia
+  - text: "Bajaj Finance : UPI & Loan App Bajaj Finance Limited"
+  - img "Rated 4.7 stars out of five stars": "4.7"
+- contentinfo:
+  - text: Google Play
+  - link "Play Pass":
+    - /url: /store/pass/getstarted
+    - paragraph: Play Pass
+  - link "Play Points":
+    - /url: /store/points/enroll
+    - paragraph: Play Points
+  - link "Gift cards":
+    - /url: https://play.google.com/about/giftcards
+    - paragraph: Gift cards
+  - link "Redeem":
+    - /url: /redeem
+    - paragraph: Redeem
+  - link "Refund policy":
+    - /url: https://support.google.com/googleplay/answer/134336
+    - paragraph: Refund policy
+  - text: Kids & family
+  - link "Parent Guide":
+    - /url: https://support.google.com/googleplay?p=pff_parentguide
+    - paragraph: Parent Guide
+  - link "Family sharing":
+    - /url: https://support.google.com/googleplay/answer/7007852
+    - paragraph: Family sharing
+  - link "Terms of Service":
+    - /url: https://play.google.com/intl/en-US_in/about/play-terms.html
+    - paragraph: Terms of Service
+  - link "Privacy":
+    - /url: https://policies.google.com/privacy
+    - paragraph: Privacy
+  - link "About Google Play":
+    - /url: https://support.google.com/googleplay/?p=about_play
+    - paragraph: About Google Play
+  - link "Developers":
+    - /url: http://developer.android.com/index.html
+    - paragraph: Developers
+  - link "Google Store":
+    - /url: https://store.google.com/?playredirect=true&utm_source=play&utm_medium=google_oo&utm_campaign=GS106288
+    - paragraph: Google Store
+  - text: All prices include GST. India (English (United States))

@@ -1,0 +1,53 @@
+{
+  "method": "Independently align each heading at y=12; fixed-size section crops; no scaling or masks; same Chromium, DPR 1, locale en-IN, light. Section alignment removes accumulated vertical shifts, so these are not full-page equivalence measurements.",
+  "pairs": [
+    {
+      "width": 1440,
+      "section": "about",
+      "cropWidth": 860,
+      "cropHeight": 320,
+      "mismatchPixels": 5133,
+      "mismatchPercent": 1.865
+    },
+    {
+      "width": 1440,
+      "section": "safety",
+      "cropWidth": 860,
+      "cropHeight": 400,
+      "mismatchPixels": 11581,
+      "mismatchPercent": 3.367
+    },
+    {
+      "width": 1440,
+      "section": "reviews",
+      "cropWidth": 860,
+      "cropHeight": 1400,
+      "mismatchPixels": 70504,
+      "mismatchPercent": 5.856
+    },
+    {
+      "width": 390,
+      "section": "about",
+      "cropWidth": 342,
+      "cropHeight": 350,
+      "mismatchPixels": 3666,
+      "mismatchPercent": 3.063
+    },
+    {
+      "width": 390,
+      "section": "safety",
+      "cropWidth": 342,
+      "cropHeight": 560,
+      "mismatchPixels": 16332,
+      "mismatchPercent": 8.528
+    },
+    {
+      "width": 390,
+      "section": "reviews",
+      "cropWidth": 342,
+      "cropHeight": 1900,
+      "mismatchPixels": 61290,
+      "mismatchPercent": 9.432
+    }
+  ]
+}

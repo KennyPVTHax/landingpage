@@ -1,0 +1,170 @@
+{
+  "method": "Pixelmatch 8; threshold 0.1; anti-alias pixels excluded; no masks; DPR 1; Chromium 156; light; en-IN. Mismatch is not a perceptual similarity score.",
+  "pairs": [
+    {
+      "viewport": 1920,
+      "width": 1920,
+      "height": 1080,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 25017,
+      "totalPixels": 2073600,
+      "mismatchPercent": 1.206,
+      "diff": "artifacts/diffs/diff-1920-hero.png"
+    },
+    {
+      "viewport": 1440,
+      "width": 1440,
+      "height": 900,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 14509,
+      "totalPixels": 1296000,
+      "mismatchPercent": 1.12,
+      "diff": "artifacts/diffs/diff-1440-hero.png"
+    },
+    {
+      "viewport": 1366,
+      "width": 1366,
+      "height": 768,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 10760,
+      "totalPixels": 1049088,
+      "mismatchPercent": 1.026,
+      "diff": "artifacts/diffs/diff-1366-hero.png"
+    },
+    {
+      "viewport": 1280,
+      "width": 1280,
+      "height": 800,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 11412,
+      "totalPixels": 1024000,
+      "mismatchPercent": 1.114,
+      "diff": "artifacts/diffs/diff-1280-hero.png"
+    },
+    {
+      "viewport": 1024,
+      "width": 1024,
+      "height": 768,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 15033,
+      "totalPixels": 786432,
+      "mismatchPercent": 1.912,
+      "diff": "artifacts/diffs/diff-1024-hero.png"
+    },
+    {
+      "viewport": 768,
+      "width": 768,
+      "height": 1024,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 12034,
+      "totalPixels": 786432,
+      "mismatchPercent": 1.53,
+      "diff": "artifacts/diffs/diff-768-hero.png"
+    },
+    {
+      "viewport": 430,
+      "width": 430,
+      "height": 932,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 11249,
+      "totalPixels": 400760,
+      "mismatchPercent": 2.807,
+      "diff": "artifacts/diffs/diff-430-hero.png"
+    },
+    {
+      "viewport": 390,
+      "width": 390,
+      "height": 844,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 9923,
+      "totalPixels": 329160,
+      "mismatchPercent": 3.015,
+      "diff": "artifacts/diffs/diff-390-hero.png"
+    },
+    {
+      "viewport": 375,
+      "width": 375,
+      "height": 812,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 8798,
+      "totalPixels": 304500,
+      "mismatchPercent": 2.889,
+      "diff": "artifacts/diffs/diff-375-hero.png"
+    },
+    {
+      "viewport": 360,
+      "width": 360,
+      "height": 800,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 8738,
+      "totalPixels": 288000,
+      "mismatchPercent": 3.034,
+      "diff": "artifacts/diffs/diff-360-hero.png"
+    },
+    {
+      "viewport": 600,
+      "width": 600,
+      "height": 800,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 7285,
+      "totalPixels": 480000,
+      "mismatchPercent": 1.518,
+      "diff": "artifacts/diffs/diff-600-hero.png"
+    },
+    {
+      "viewport": 601,
+      "width": 601,
+      "height": 800,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 7218,
+      "totalPixels": 480800,
+      "mismatchPercent": 1.501,
+      "diff": "artifacts/diffs/diff-601-hero.png"
+    },
+    {
+      "viewport": 839,
+      "width": 839,
+      "height": 900,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 7036,
+      "totalPixels": 755100,
+      "mismatchPercent": 0.932,
+      "diff": "artifacts/diffs/diff-839-hero.png"
+    },
+    {
+      "viewport": 840,
+      "width": 840,
+      "height": 900,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 19378,
+      "totalPixels": 756000,
+      "mismatchPercent": 2.563,
+      "diff": "artifacts/diffs/diff-840-hero.png"
+    },
+    {
+      "viewport": 960,
+      "width": 960,
+      "height": 900,
+      "threshold": 0.1,
+      "includeAA": false,
+      "mismatchPixels": 16626,
+      "totalPixels": 864000,
+      "mismatchPercent": 1.924,
+      "diff": "artifacts/diffs/diff-960-hero.png"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "layers": [
+    {
+      "tag": "IMG",
+      "cls": "oiEt0d",
+      "style": "",
+      "bg": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "rect": {
+        "x": 373,
+        "y": 64,
+        "width": 1067,
+        "height": 600,
+        "top": 64,
+        "right": 1440,
+        "bottom": 664,
+        "left": 373
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "jaQz3d",
+      "style": "",
+      "bg": "linear-gradient(90deg, rgb(32, 33, 36) 0px, rgba(0, 0, 0, 0) 56%) repeat scroll 0% 0% / auto padding-box border-box, linear-gradient(0deg, rgb(32, 33, 36) 0px, rgba(0, 0, 0, 0) 56%) repeat scroll 0% 0% / auto padding-box border-box, rgba(0, 0, 0, 0) linear-gradient(270deg, rgb(32, 33, 36) 0px, rgba(0, 0, 0, 0) 56%) repeat scroll 0% 0% / auto padding-box border-box",
+      "rect": {
+        "x": 373,
+        "y": 64,
+        "width": 1067,
+        "height": 600,
+        "top": 64,
+        "right": 1440,
+        "bottom": 664,
+        "left": 373
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "kuvzJc atwQXd",
+      "style": "",
+      "bg": "rgba(0, 0, 0, 0.54) none repeat scroll 0% 0% / auto padding-box border-box",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "cvriud ",
+      "style": "",
+      "bg": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "I",
+      "cls": "google-material-icons notranslate CAYEaf",
+      "style": "",
+      "bg": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    }
+  ],
+  "css": [
+    "@media screen and (min-width: 1280px) {\n  .XcNflb .cN0oRe { width: 128px; }\n  .arM4bb { width: 240px; }\n  .NXRaDe { width: 200px; }\n  .PyyLUd, .oiEt0d { height: 532px; width: 947px; }\n  .jaQz3d { background: linear-gradient(90deg, rgb(32, 33, 36) 0px, rgba(0, 0, 0, 0) 56%), linear-gradient(0deg, rgb(32, 33, 36) 0px, rgba(0, 0, 0, 0) 56%), linear-gradient(270deg, rgb(32, 33, 36) 0px, rgba(0, 0, 0, 0) 56%); }\n  .XcNflb { min-height: 500px; }\n  .Il7kR .Fd93Bb, .Il7kR .tv4jIf { width: 800px; }\n  .xwcR9d { font-family: \"Google Sans Display\", Roboto, Arial, sans-serif; line-height: 4.75rem; font-size: 4rem; letter-spacing: 0px; font-weight: 500; }\n  .p5VxAd { font-family: \"Google Sans Display\", Roboto, Arial, sans-serif; line-height: 4rem; font-size: 3.5rem; letter-spacing: 0px; font-weight: 500; }\n  .toLpDd { font-family: \"Google Sans Display\", Roboto, Arial, sans-serif; line-height: 3.25rem; font-size: 2.75rem; letter-spacing: 0px; font-weight: 500; }\n}"
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "width": 1280,
+  "scrollWidth": 1280,
+  "items": [
+    {
+      "text": "google_logo Play\nGames\nApps\nBooks\nKids\nsearch\nhelp_outline",
+      "cls": "S3WLMd ",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1280,
+        "h": 64
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "oiEt0d",
+      "rect": {
+        "x": 333,
+        "y": 64,
+        "w": 947,
+        "h": 532
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "NextGen mParivahan",
+      "cls": "",
+      "rect": {
+        "x": 72,
+        "y": 268,
+        "w": 560,
+        "h": 152
+      },
+      "font": "500 64px / 76px \"Google Sans Display\", Roboto, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "T75of B5GQxf",
+      "rect": {
+        "x": 72,
+        "y": 688,
+        "w": 131,
+        "h": 296
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "T75of B5GQxf",
+      "rect": {
+        "x": 219,
+        "y": 688,
+        "w": 131,
+        "h": 296
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "T75of B5GQxf",
+      "rect": {
+        "x": 366,
+        "y": 688,
+        "w": 131,
+        "h": 296
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "T75of B5GQxf",
+      "rect": {
+        "x": 513,
+        "y": 688,
+        "w": 131,
+        "h": 296
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "T75of B5GQxf",
+      "rect": {
+        "x": 660,
+        "y": 688,
+        "w": 131,
+        "h": 296
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "T75of B5GQxf",
+      "rect": {
+        "x": 807,
+        "y": 688,
+        "w": 131,
+        "h": 296
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "",
+      "cls": "T75of B5GQxf",
+      "rect": {
+        "x": 954,
+        "y": 688,
+        "w": 131,
+        "h": 296
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "About this app\narrow_forward",
+      "cls": " cswwxf",
+      "rect": {
+        "x": 72,
+        "y": 1030,
+        "w": 700,
+        "h": 50
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "About this app",
+      "cls": "XfZNbf",
+      "rect": {
+        "x": 72,
+        "y": 1030,
+        "w": 149.8125,
+        "h": 28
+      },
+      "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif"
+    },
+    {
+      "text": "Data safety\narrow_forward",
+      "cls": " cswwxf",
+      "rect": {
+        "x": 72,
+        "y": 1372,
+        "w": 700,
+        "h": 48
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "Data safety",
+      "cls": "XfZNbf",
+      "rect": {
+        "x": 72,
+        "y": 1372,
+        "w": 115.8125,
+        "h": 28
+      },
+      "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif"
+    },
+    {
+      "text": "Ratings and reviews\narrow_forward\nRatings and reviews are verified\ninfo_outline",
+      "cls": " cswwxf",
+      "rect": {
+        "x": 72,
+        "y": 1804,
+        "w": 700,
+        "h": 58
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "Ratings and reviews",
+      "cls": "XfZNbf",
+      "rect": {
+        "x": 72,
+        "y": 1804,
+        "w": 202.6875,
+        "h": 28
+      },
+      "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif"
+    },
+    {
+      "text": "Harshil Karani\nmore_vert\nSeptember 16, 2026",
+      "cls": "c1bOId",
+      "rect": {
+        "x": 72,
+        "y": 2094,
+        "w": 700,
+        "h": 84
+      },
+      "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "Adit Newah\nmore_vert\nJuly 20, 2026",
+      "cls": "c1bOId",
+      "rect": {
+        "x": 72,
+        "y": 2526,
+        "w": 700,
+        "h": 84
+      },
+      "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "uday kiran reddy Anumula\nmore_vert\nJuly 25, 2026",
+      "cls": "c1bOId",
+      "rect": {
+        "x": 72,
+        "y": 2978,
+        "w": 700,
+        "h": 84
+      },
+      "font": "14px / 20px Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "App support\nexpand_more",
+      "cls": "",
+      "rect": {
+        "x": 844,
+        "y": 822,
+        "w": 364,
+        "h": 30
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "App support",
+      "cls": "XfZNbf",
+      "rect": {
+        "x": 844,
+        "y": 822,
+        "w": 128.640625,
+        "h": 28
+      },
+      "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif"
+    },
+    {
+      "text": "More by National Informatics Centre.\narrow_forward",
+      "cls": " cswwxf",
+      "rect": {
+        "x": 844,
+        "y": 896,
+        "w": 364,
+        "h": 76
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "More by National Informatics Centre.",
+      "cls": "XfZNbf",
+      "rect": {
+        "x": 844,
+        "y": 896,
+        "w": 322,
+        "h": 56
+      },
+      "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif"
+    },
+    {
+      "text": "Similar apps\narrow_forward",
+      "cls": " cswwxf",
+      "rect": {
+        "x": 844,
+        "y": 1568,
+        "w": 364,
+        "h": 48
+      },
+      "font": "14px / 14px \"Google Sans\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "text": "Similar apps",
+      "cls": "XfZNbf",
+      "rect": {
+        "x": 844,
+        "y": 1568,
+        "w": 122.984375,
+        "h": 28
+      },
+      "font": "500 22px / 28px \"Google Sans\", Roboto, Arial, sans-serif"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.log
+.env*
+.DS_Store
+artifacts/reference/page.html
+.agents/
